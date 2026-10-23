@@ -1,0 +1,31 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+
+# Python virtual environments / caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Node and frontend dependencies
+node_modules/
+.next/
+dist/
+build/
+.cache/
+
+# Local data and OS files
+*.log
+.DS_Store
+Thumbs.db
+db.sqlite3
