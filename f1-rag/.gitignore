@@ -1,0 +1,33 @@
+# 비밀 정보 (NF2003)
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# 실행 중 생성되는 데이터
+data/chroma/
+data/chroma_*/
+data/cache/
+data/cache_*/
+data/raw/regulations/*.pdf
+data/raw/decisions/**/*.pdf
+logs/
+config/settings_empty.yaml
+*.tmp
+
+# 제출용 압축 파일
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# 편집기·운영체제
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store

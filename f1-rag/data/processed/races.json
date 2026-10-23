@@ -1,0 +1,8418 @@
+[
+ {
+  "race_id": "2021_01",
+  "season": 2021,
+  "round": 1,
+  "is_season_opener": true,
+  "is_season_finale": false,
+  "name_en": "Bahrain Grand Prix",
+  "name_ko": "바레인 그랑프리",
+  "date": "2021-03-28",
+  "circuit": "Bahrain International Circuit",
+  "locality": "Sakhir",
+  "country_en": "Bahrain",
+  "country_ko": "바레인",
+  "has_sprint": false,
+  "laps": 56,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/1/results/",
+  "wiki_en_title": "2021 Bahrain Grand Prix",
+  "wiki_ko_title": "2021년 바레인 그랑프리",
+  "wiki_ko_length": 2958,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2021년 바레인 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2021 Bahrain Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 짧음"
+ },
+ {
+  "race_id": "2021_02",
+  "season": 2021,
+  "round": 2,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Emilia Romagna Grand Prix",
+  "name_ko": "에밀리아로마냐 그랑프리",
+  "date": "2021-04-18",
+  "circuit": "Autodromo Enzo e Dino Ferrari",
+  "locality": "Imola",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 63,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 7
+  },
+  "grid_one": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/2/results/",
+  "wiki_en_title": "2021 Emilia Romagna Grand Prix",
+  "wiki_ko_title": "2021년 에밀리아로마냐 그랑프리",
+  "wiki_ko_length": 3924,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2021년 에밀리아로마냐 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2021 Emilia Romagna Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2021_03",
+  "season": 2021,
+  "round": 3,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Portuguese Grand Prix",
+  "name_ko": "포르투갈 그랑프리",
+  "date": "2021-05-02",
+  "circuit": "Autódromo Internacional do Algarve",
+  "locality": "Portimão",
+  "country_en": "Portugal",
+  "country_ko": "포르투갈",
+  "has_sprint": false,
+  "laps": 66,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/3/results/",
+  "wiki_en_title": "2021 Portuguese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Portuguese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_04",
+  "season": 2021,
+  "round": 4,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Spanish Grand Prix",
+  "name_ko": "스페인 그랑프리",
+  "date": "2021-05-09",
+  "circuit": "Circuit de Barcelona-Catalunya",
+  "locality": "Barcelona",
+  "country_en": "Spain",
+  "country_ko": "스페인",
+  "has_sprint": false,
+  "laps": 66,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/4/results/",
+  "wiki_en_title": "2021 Spanish Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Spanish Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_05",
+  "season": 2021,
+  "round": 5,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Monaco Grand Prix",
+  "name_ko": "모나코 그랑프리",
+  "date": "2021-05-23",
+  "circuit": "Circuit de Monaco",
+  "locality": "Monte Carlo",
+  "country_en": "Monaco",
+  "country_ko": "모나코",
+  "has_sprint": false,
+  "laps": 78,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/5/results/",
+  "wiki_en_title": "2021 Monaco Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Monaco Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_06",
+  "season": 2021,
+  "round": 6,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Azerbaijan Grand Prix",
+  "name_ko": "아제르바이잔 그랑프리",
+  "date": "2021-06-06",
+  "circuit": "Baku City Circuit",
+  "locality": "Baku",
+  "country_en": "Azerbaijan",
+  "country_ko": "아제르바이잔",
+  "has_sprint": false,
+  "laps": 51,
+  "winner": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 6
+  },
+  "second": {
+   "driver": "제바스티안 페텔",
+   "driver_en": "Sebastian Vettel",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 11
+  },
+  "third": {
+   "driver": "피에르 가슬리",
+   "driver_en": "Pierre Gasly",
+   "team": "알파타우리",
+   "team_en": "AlphaTauri",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/6/results/",
+  "wiki_en_title": "2021 Azerbaijan Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Azerbaijan Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_07",
+  "season": 2021,
+  "round": 7,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "French Grand Prix",
+  "name_ko": "프랑스 그랑프리",
+  "date": "2021-06-20",
+  "circuit": "Circuit Paul Ricard",
+  "locality": "Le Castellet",
+  "country_en": "France",
+  "country_ko": "프랑스",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/7/results/",
+  "wiki_en_title": "2021 French Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 French Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_08",
+  "season": 2021,
+  "round": 8,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Styrian Grand Prix",
+  "name_ko": "슈타이어마르크 그랑프리",
+  "date": "2021-06-27",
+  "circuit": "Red Bull Ring",
+  "locality": "Spielberg",
+  "country_en": "Austria",
+  "country_ko": "오스트리아",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/8/results/",
+  "wiki_en_title": "2021 Styrian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Styrian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_09",
+  "season": 2021,
+  "round": 9,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Austrian Grand Prix",
+  "name_ko": "오스트리아 그랑프리",
+  "date": "2021-07-04",
+  "circuit": "Red Bull Ring",
+  "locality": "Spielberg",
+  "country_en": "Austria",
+  "country_ko": "오스트리아",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/9/results/",
+  "wiki_en_title": "2021 Austrian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Austrian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_10",
+  "season": 2021,
+  "round": 10,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "British Grand Prix",
+  "name_ko": "영국 그랑프리",
+  "date": "2021-07-18",
+  "circuit": "Silverstone Circuit",
+  "locality": "Silverstone",
+  "country_en": "UK",
+  "country_ko": "영국",
+  "has_sprint": true,
+  "laps": 52,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 0
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/10/results/",
+  "wiki_en_title": "2021 British Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 British Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_11",
+  "season": 2021,
+  "round": 11,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Hungarian Grand Prix",
+  "name_ko": "헝가리 그랑프리",
+  "date": "2021-08-01",
+  "circuit": "Hungaroring",
+  "locality": "Budapest",
+  "country_en": "Hungary",
+  "country_ko": "헝가리",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "에스테반 오콘",
+   "driver_en": "Esteban Ocon",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 8
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 15
+  },
+  "grid_one": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "피에르 가슬리",
+   "driver_en": "Pierre Gasly",
+   "team": "알파타우리",
+   "team_en": "AlphaTauri",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 7,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/11/results/",
+  "wiki_en_title": "2021 Hungarian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Hungarian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_12",
+  "season": 2021,
+  "round": 12,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Belgian Grand Prix",
+  "name_ko": "벨기에 그랑프리",
+  "date": "2021-08-29",
+  "circuit": "Circuit de Spa-Francorchamps",
+  "locality": "Spa",
+  "country_en": "Belgium",
+  "country_ko": "벨기에",
+  "has_sprint": false,
+  "laps": 1,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "윌리엄스",
+   "team_en": "Williams",
+   "grid": 2
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": null,
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/12/results/",
+  "wiki_en_title": "2021 Belgian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Belgian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_13",
+  "season": 2021,
+  "round": 13,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Dutch Grand Prix",
+  "name_ko": "네덜란드 그랑프리",
+  "date": "2021-09-05",
+  "circuit": "Circuit Park Zandvoort",
+  "locality": "Zandvoort",
+  "country_en": "Netherlands",
+  "country_ko": "네덜란드",
+  "has_sprint": false,
+  "laps": 72,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/13/results/",
+  "wiki_en_title": "2021 Dutch Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Dutch Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_14",
+  "season": 2021,
+  "round": 14,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Italian Grand Prix",
+  "name_ko": "이탈리아 그랑프리",
+  "date": "2021-09-12",
+  "circuit": "Autodromo Nazionale di Monza",
+  "locality": "Monza",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": true,
+  "laps": 53,
+  "winner": {
+   "driver": "대니얼 리카도",
+   "driver_en": "Daniel Ricciardo",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 19
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "대니얼 리카도",
+   "driver_en": "Daniel Ricciardo",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/14/results/",
+  "wiki_en_title": "2021 Italian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Italian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_15",
+  "season": 2021,
+  "round": 15,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Russian Grand Prix",
+  "name_ko": "러시아 그랑프리",
+  "date": "2021-09-26",
+  "circuit": "Sochi Autodrom",
+  "locality": "Sochi",
+  "country_en": "Russia",
+  "country_ko": "러시아",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 20
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/15/results/",
+  "wiki_en_title": "2021 Russian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Russian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_16",
+  "season": 2021,
+  "round": 16,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Turkish Grand Prix",
+  "name_ko": "튀르키예 그랑프리",
+  "date": "2021-10-10",
+  "circuit": "Istanbul Park",
+  "locality": "Istanbul",
+  "country_en": "Turkey",
+  "country_ko": "튀르키예",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 6
+  },
+  "grid_one": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/16/results/",
+  "wiki_en_title": "2021 Turkish Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Turkish Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_17",
+  "season": 2021,
+  "round": 17,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "United States Grand Prix",
+  "name_ko": "미국 그랑프리",
+  "date": "2021-10-24",
+  "circuit": "Circuit of the Americas",
+  "locality": "Austin",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 56,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/17/results/",
+  "wiki_en_title": "2021 United States Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 United States Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_18",
+  "season": 2021,
+  "round": 18,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Mexico City Grand Prix",
+  "name_ko": "멕시코시티 그랑프리",
+  "date": "2021-11-07",
+  "circuit": "Autódromo Hermanos Rodríguez",
+  "locality": "Mexico City",
+  "country_en": "Mexico",
+  "country_ko": "멕시코",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/18/results/",
+  "wiki_en_title": "2021 Mexico City Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Mexico City Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_19",
+  "season": 2021,
+  "round": 19,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "São Paulo Grand Prix",
+  "name_ko": "상파울루 그랑프리",
+  "date": "2021-11-14",
+  "circuit": "Autódromo José Carlos Pace",
+  "locality": "São Paulo",
+  "country_en": "Brazil",
+  "country_ko": "브라질",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 10
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/19/results/",
+  "wiki_en_title": "2021 São Paulo Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 São Paulo Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_20",
+  "season": 2021,
+  "round": 20,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Qatar Grand Prix",
+  "name_ko": "카타르 그랑프리",
+  "date": "2021-11-21",
+  "circuit": "Lusail International Circuit",
+  "locality": "Lusail",
+  "country_en": "Qatar",
+  "country_ko": "카타르",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 7
+  },
+  "third": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/20/results/",
+  "wiki_en_title": "2021 Qatar Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Qatar Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_21",
+  "season": 2021,
+  "round": 21,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Saudi Arabian Grand Prix",
+  "name_ko": "사우디아라비아 그랑프리",
+  "date": "2021-12-05",
+  "circuit": "Jeddah Corniche Circuit",
+  "locality": "Jeddah",
+  "country_en": "Saudi Arabia",
+  "country_ko": "사우디아라비아",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "발테리 보타스",
+   "driver_en": "Valtteri Bottas",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/21/results/",
+  "wiki_en_title": "2021 Saudi Arabian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2021 Saudi Arabian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2021_22",
+  "season": 2021,
+  "round": 22,
+  "is_season_opener": false,
+  "is_season_finale": true,
+  "name_en": "Abu Dhabi Grand Prix",
+  "name_ko": "아부다비 그랑프리",
+  "date": "2021-12-12",
+  "circuit": "Yas Marina Circuit",
+  "locality": "Abu Dhabi",
+  "country_en": "UAE",
+  "country_ko": "아랍에미리트",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 6,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2021/22/results/",
+  "wiki_en_title": "2021 Abu Dhabi Grand Prix",
+  "wiki_ko_title": "2021년 아부다비 그랑프리",
+  "wiki_ko_length": 10827,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2021년 아부다비 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2021 Abu Dhabi Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2022_01",
+  "season": 2022,
+  "round": 1,
+  "is_season_opener": true,
+  "is_season_finale": false,
+  "name_en": "Bahrain Grand Prix",
+  "name_ko": "바레인 그랑프리",
+  "date": "2022-03-20",
+  "circuit": "Bahrain International Circuit",
+  "locality": "Sakhir",
+  "country_en": "Bahrain",
+  "country_ko": "바레인",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "second": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/1/results/",
+  "wiki_en_title": "2022 Bahrain Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Bahrain Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_02",
+  "season": 2022,
+  "round": 2,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Saudi Arabian Grand Prix",
+  "name_ko": "사우디아라비아 그랑프리",
+  "date": "2022-03-27",
+  "circuit": "Jeddah Corniche Circuit",
+  "locality": "Jeddah",
+  "country_en": "Saudi Arabia",
+  "country_ko": "사우디아라비아",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 7,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/2/results/",
+  "wiki_en_title": "2022 Saudi Arabian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Saudi Arabian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_03",
+  "season": 2022,
+  "round": 3,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Australian Grand Prix",
+  "name_ko": "호주 그랑프리",
+  "date": "2022-04-10",
+  "circuit": "Albert Park Grand Prix Circuit",
+  "locality": "Melbourne",
+  "country_en": "Australia",
+  "country_ko": "호주",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/3/results/",
+  "wiki_en_title": "2022 Australian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Australian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_04",
+  "season": 2022,
+  "round": 4,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Emilia Romagna Grand Prix",
+  "name_ko": "에밀리아로마냐 그랑프리",
+  "date": "2022-04-24",
+  "circuit": "Autodromo Enzo e Dino Ferrari",
+  "locality": "Imola",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": true,
+  "laps": 63,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/4/results/",
+  "wiki_en_title": "2022 Emilia Romagna Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Emilia Romagna Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_05",
+  "season": 2022,
+  "round": 5,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Miami Grand Prix",
+  "name_ko": "마이애미 그랑프리",
+  "date": "2022-05-08",
+  "circuit": "Miami International Autodrome",
+  "locality": "Miami",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/5/results/",
+  "wiki_en_title": "2022 Miami Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Miami Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_06",
+  "season": 2022,
+  "round": 6,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Spanish Grand Prix",
+  "name_ko": "스페인 그랑프리",
+  "date": "2022-05-22",
+  "circuit": "Circuit de Barcelona-Catalunya",
+  "locality": "Barcelona",
+  "country_en": "Spain",
+  "country_ko": "스페인",
+  "has_sprint": false,
+  "laps": 66,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 5
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/6/results/",
+  "wiki_en_title": "2022 Spanish Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Spanish Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_07",
+  "season": 2022,
+  "round": 7,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Monaco Grand Prix",
+  "name_ko": "모나코 그랑프리",
+  "date": "2022-05-29",
+  "circuit": "Circuit de Monaco",
+  "locality": "Monte Carlo",
+  "country_en": "Monaco",
+  "country_ko": "모나코",
+  "has_sprint": false,
+  "laps": 64,
+  "winner": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "third": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/7/results/",
+  "wiki_en_title": "2022 Monaco Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Monaco Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_08",
+  "season": 2022,
+  "round": 8,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Azerbaijan Grand Prix",
+  "name_ko": "아제르바이잔 그랑프리",
+  "date": "2022-06-12",
+  "circuit": "Baku City Circuit",
+  "locality": "Baku",
+  "country_en": "Azerbaijan",
+  "country_ko": "아제르바이잔",
+  "has_sprint": false,
+  "laps": 51,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/8/results/",
+  "wiki_en_title": "2022 Azerbaijan Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Azerbaijan Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_09",
+  "season": 2022,
+  "round": 9,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Canadian Grand Prix",
+  "name_ko": "캐나다 그랑프리",
+  "date": "2022-06-19",
+  "circuit": "Circuit Gilles Villeneuve",
+  "locality": "Montreal",
+  "country_en": "Canada",
+  "country_ko": "캐나다",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/9/results/",
+  "wiki_en_title": "2022 Canadian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Canadian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_10",
+  "season": 2022,
+  "round": 10,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "British Grand Prix",
+  "name_ko": "영국 그랑프리",
+  "date": "2022-07-03",
+  "circuit": "Silverstone Circuit",
+  "locality": "Silverstone",
+  "country_en": "UK",
+  "country_ko": "영국",
+  "has_sprint": false,
+  "laps": 52,
+  "winner": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 6,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/10/results/",
+  "wiki_en_title": "2022 British Grand Prix",
+  "wiki_ko_title": "2022년 영국 그랑프리",
+  "wiki_ko_length": 3345,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2022년 영국 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2022 British Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2022_11",
+  "season": 2022,
+  "round": 11,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Austrian Grand Prix",
+  "name_ko": "오스트리아 그랑프리",
+  "date": "2022-07-10",
+  "circuit": "Red Bull Ring",
+  "locality": "Spielberg",
+  "country_en": "Austria",
+  "country_ko": "오스트리아",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 8
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/11/results/",
+  "wiki_en_title": "2022 Austrian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Austrian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_12",
+  "season": 2022,
+  "round": 12,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "French Grand Prix",
+  "name_ko": "프랑스 그랑프리",
+  "date": "2022-07-24",
+  "circuit": "Circuit Paul Ricard",
+  "locality": "Le Castellet",
+  "country_en": "France",
+  "country_ko": "프랑스",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 19
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/12/results/",
+  "wiki_en_title": "2022 French Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 French Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_13",
+  "season": 2022,
+  "round": 13,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Hungarian Grand Prix",
+  "name_ko": "헝가리 그랑프리",
+  "date": "2022-07-31",
+  "circuit": "Hungaroring",
+  "locality": "Budapest",
+  "country_en": "Hungary",
+  "country_ko": "헝가리",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 10
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/13/results/",
+  "wiki_en_title": "2022 Hungarian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Hungarian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_14",
+  "season": 2022,
+  "round": 14,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Belgian Grand Prix",
+  "name_ko": "벨기에 그랑프리",
+  "date": "2022-08-28",
+  "circuit": "Circuit de Spa-Francorchamps",
+  "locality": "Spa",
+  "country_en": "Belgium",
+  "country_ko": "벨기에",
+  "has_sprint": false,
+  "laps": 44,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 14
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 14
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/14/results/",
+  "wiki_en_title": "2022 Belgian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Belgian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_15",
+  "season": 2022,
+  "round": 15,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Dutch Grand Prix",
+  "name_ko": "네덜란드 그랑프리",
+  "date": "2022-09-04",
+  "circuit": "Circuit Park Zandvoort",
+  "locality": "Zandvoort",
+  "country_en": "Netherlands",
+  "country_ko": "네덜란드",
+  "has_sprint": false,
+  "laps": 72,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/15/results/",
+  "wiki_en_title": "2022 Dutch Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Dutch Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_16",
+  "season": 2022,
+  "round": 16,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Italian Grand Prix",
+  "name_ko": "이탈리아 그랑프리",
+  "date": "2022-09-11",
+  "circuit": "Autodromo Nazionale di Monza",
+  "locality": "Monza",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 7
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 13
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/16/results/",
+  "wiki_en_title": "2022 Italian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Italian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_17",
+  "season": 2022,
+  "round": 17,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Singapore Grand Prix",
+  "name_ko": "싱가포르 그랑프리",
+  "date": "2022-10-02",
+  "circuit": "Marina Bay Street Circuit",
+  "locality": "Marina Bay",
+  "country_en": "Singapore",
+  "country_ko": "싱가포르",
+  "has_sprint": false,
+  "laps": 59,
+  "winner": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 0
+  },
+  "starters": 20,
+  "retirements": 6,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/17/results/",
+  "wiki_en_title": "2022 Singapore Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Singapore Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_18",
+  "season": 2022,
+  "round": 18,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Japanese Grand Prix",
+  "name_ko": "일본 그랑프리",
+  "date": "2022-10-09",
+  "circuit": "Suzuka Circuit",
+  "locality": "Suzuka",
+  "country_en": "Japan",
+  "country_ko": "일본",
+  "has_sprint": false,
+  "laps": 28,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "저우관위",
+   "driver_en": "Guanyu Zhou",
+   "team": "알파 로메오",
+   "team_en": "Alfa Romeo",
+   "grid": 14
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/18/results/",
+  "wiki_en_title": "2022 Japanese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Japanese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_19",
+  "season": 2022,
+  "round": 19,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "United States Grand Prix",
+  "name_ko": "미국 그랑프리",
+  "date": "2022-10-23",
+  "circuit": "Circuit of the Americas",
+  "locality": "Austin",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 56,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 12
+  },
+  "grid_one": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/19/results/",
+  "wiki_en_title": "2022 United States Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 United States Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_20",
+  "season": 2022,
+  "round": 20,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Mexico City Grand Prix",
+  "name_ko": "멕시코시티 그랑프리",
+  "date": "2022-10-30",
+  "circuit": "Autódromo Hermanos Rodríguez",
+  "locality": "Mexico City",
+  "country_en": "Mexico",
+  "country_ko": "멕시코",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/20/results/",
+  "wiki_en_title": "2022 Mexico City Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Mexico City Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_21",
+  "season": 2022,
+  "round": 21,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "São Paulo Grand Prix",
+  "name_ko": "상파울루 그랑프리",
+  "date": "2022-11-13",
+  "circuit": "Autódromo José Carlos Pace",
+  "locality": "São Paulo",
+  "country_en": "Brazil",
+  "country_ko": "브라질",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 7
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "케빈 마그누센",
+   "driver_en": "Kevin Magnussen",
+   "team": "하스",
+   "team_en": "Haas F1 Team"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/21/results/",
+  "wiki_en_title": "2022 São Paulo Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 São Paulo Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2022_22",
+  "season": 2022,
+  "round": 22,
+  "is_season_opener": false,
+  "is_season_finale": true,
+  "name_en": "Abu Dhabi Grand Prix",
+  "name_ko": "아부다비 그랑프리",
+  "date": "2022-11-20",
+  "circuit": "Yas Marina Circuit",
+  "locality": "Abu Dhabi",
+  "country_en": "UAE",
+  "country_ko": "아랍에미리트",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2022/22/results/",
+  "wiki_en_title": "2022 Abu Dhabi Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2022 Abu Dhabi Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_01",
+  "season": 2023,
+  "round": 1,
+  "is_season_opener": true,
+  "is_season_finale": false,
+  "name_en": "Bahrain Grand Prix",
+  "name_ko": "바레인 그랑프리",
+  "date": "2023-03-05",
+  "circuit": "Bahrain International Circuit",
+  "locality": "Sakhir",
+  "country_en": "Bahrain",
+  "country_ko": "바레인",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "저우관위",
+   "driver_en": "Guanyu Zhou",
+   "team": "알파 로메오",
+   "team_en": "Alfa Romeo",
+   "grid": 13
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/1/results/",
+  "wiki_en_title": "2023 Bahrain Grand Prix",
+  "wiki_ko_title": "2023년 바레인 그랑프리",
+  "wiki_ko_length": 16064,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 바레인 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Bahrain Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_02",
+  "season": 2023,
+  "round": 2,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Saudi Arabian Grand Prix",
+  "name_ko": "사우디아라비아 그랑프리",
+  "date": "2023-03-19",
+  "circuit": "Jeddah Corniche Circuit",
+  "locality": "Jeddah",
+  "country_en": "Saudi Arabia",
+  "country_ko": "사우디아라비아",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 15
+  },
+  "third": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 15
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/2/results/",
+  "wiki_en_title": "2023 Saudi Arabian Grand Prix",
+  "wiki_ko_title": "2023년 사우디아라비아 그랑프리",
+  "wiki_ko_length": 22051,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 사우디아라비아 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Saudi Arabian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_03",
+  "season": 2023,
+  "round": 3,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Australian Grand Prix",
+  "name_ko": "호주 그랑프리",
+  "date": "2023-04-02",
+  "circuit": "Albert Park Grand Prix Circuit",
+  "locality": "Melbourne",
+  "country_en": "Australia",
+  "country_ko": "호주",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "third": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 20
+  },
+  "starters": 20,
+  "retirements": 8,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/3/results/",
+  "wiki_en_title": "2023 Australian Grand Prix",
+  "wiki_ko_title": "2023년 오스트레일리아 그랑프리",
+  "wiki_ko_length": 21506,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 오스트레일리아 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Australian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_04",
+  "season": 2023,
+  "round": 4,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Azerbaijan Grand Prix",
+  "name_ko": "아제르바이잔 그랑프리",
+  "date": "2023-04-30",
+  "circuit": "Baku City Circuit",
+  "locality": "Baku",
+  "country_en": "Azerbaijan",
+  "country_ko": "아제르바이잔",
+  "has_sprint": true,
+  "laps": 51,
+  "winner": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 11
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/4/results/",
+  "wiki_en_title": "2023 Azerbaijan Grand Prix",
+  "wiki_ko_title": "2023년 아제르바이잔 그랑프리",
+  "wiki_ko_length": 20884,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 아제르바이잔 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Azerbaijan Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_05",
+  "season": 2023,
+  "round": 5,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Miami Grand Prix",
+  "name_ko": "마이애미 그랑프리",
+  "date": "2023-05-07",
+  "circuit": "Miami International Autodrome",
+  "locality": "Miami",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 9
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "third": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 9
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/5/results/",
+  "wiki_en_title": "2023 Miami Grand Prix",
+  "wiki_ko_title": "2023년 마이애미 그랑프리",
+  "wiki_ko_length": 5475,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 마이애미 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Miami Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_06",
+  "season": 2023,
+  "round": 6,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Monaco Grand Prix",
+  "name_ko": "모나코 그랑프리",
+  "date": "2023-05-28",
+  "circuit": "Circuit de Monaco",
+  "locality": "Monte Carlo",
+  "country_en": "Monaco",
+  "country_ko": "모나코",
+  "has_sprint": false,
+  "laps": 78,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 2
+  },
+  "third": {
+   "driver": "에스테반 오콘",
+   "driver_en": "Esteban Ocon",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/6/results/",
+  "wiki_en_title": "2023 Monaco Grand Prix",
+  "wiki_ko_title": "2023년 모나코 그랑프리",
+  "wiki_ko_length": 2585,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 모나코 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Monaco Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 짧음"
+ },
+ {
+  "race_id": "2023_07",
+  "season": 2023,
+  "round": 7,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Spanish Grand Prix",
+  "name_ko": "스페인 그랑프리",
+  "date": "2023-06-04",
+  "circuit": "Circuit de Barcelona-Catalunya",
+  "locality": "Barcelona",
+  "country_en": "Spain",
+  "country_ko": "스페인",
+  "has_sprint": false,
+  "laps": 66,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 12
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/7/results/",
+  "wiki_en_title": "2023 Spanish Grand Prix",
+  "wiki_ko_title": "2023년 스페인 그랑프리",
+  "wiki_ko_length": 2619,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 스페인 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Spanish Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 짧음"
+ },
+ {
+  "race_id": "2023_08",
+  "season": 2023,
+  "round": 8,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Canadian Grand Prix",
+  "name_ko": "캐나다 그랑프리",
+  "date": "2023-06-18",
+  "circuit": "Circuit Gilles Villeneuve",
+  "locality": "Montreal",
+  "country_en": "Canada",
+  "country_ko": "캐나다",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 2
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 12
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/8/results/",
+  "wiki_en_title": "2023 Canadian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Canadian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_09",
+  "season": 2023,
+  "round": 9,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Austrian Grand Prix",
+  "name_ko": "오스트리아 그랑프리",
+  "date": "2023-07-02",
+  "circuit": "Red Bull Ring",
+  "locality": "Spielberg",
+  "country_en": "Austria",
+  "country_ko": "오스트리아",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 15
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/9/results/",
+  "wiki_en_title": "2023 Austrian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Austrian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_10",
+  "season": 2023,
+  "round": 10,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "British Grand Prix",
+  "name_ko": "영국 그랑프리",
+  "date": "2023-07-09",
+  "circuit": "Silverstone Circuit",
+  "locality": "Silverstone",
+  "country_en": "UK",
+  "country_ko": "영국",
+  "has_sprint": false,
+  "laps": 52,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/10/results/",
+  "wiki_en_title": "2023 British Grand Prix",
+  "wiki_ko_title": "2023년 영국 그랑프리",
+  "wiki_ko_length": 2764,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 영국 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 British Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 짧음"
+ },
+ {
+  "race_id": "2023_11",
+  "season": 2023,
+  "round": 11,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Hungarian Grand Prix",
+  "name_ko": "헝가리 그랑프리",
+  "date": "2023-07-23",
+  "circuit": "Hungaroring",
+  "locality": "Budapest",
+  "country_en": "Hungary",
+  "country_ko": "헝가리",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 9
+  },
+  "grid_one": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/11/results/",
+  "wiki_en_title": "2023 Hungarian Grand Prix",
+  "wiki_ko_title": "2023년 헝가리 그랑프리",
+  "wiki_ko_length": 21615,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 헝가리 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Hungarian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_12",
+  "season": 2023,
+  "round": 12,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Belgian Grand Prix",
+  "name_ko": "벨기에 그랑프리",
+  "date": "2023-07-30",
+  "circuit": "Circuit de Spa-Francorchamps",
+  "locality": "Spa",
+  "country_en": "Belgium",
+  "country_ko": "벨기에",
+  "has_sprint": true,
+  "laps": 44,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 6
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/12/results/",
+  "wiki_en_title": "2023 Belgian Grand Prix",
+  "wiki_ko_title": "2023년 벨기에 그랑프리",
+  "wiki_ko_length": 37772,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 벨기에 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Belgian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_13",
+  "season": 2023,
+  "round": 13,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Dutch Grand Prix",
+  "name_ko": "네덜란드 그랑프리",
+  "date": "2023-08-27",
+  "circuit": "Circuit Park Zandvoort",
+  "locality": "Zandvoort",
+  "country_en": "Netherlands",
+  "country_ko": "네덜란드",
+  "has_sprint": false,
+  "laps": 72,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 5
+  },
+  "third": {
+   "driver": "피에르 가슬리",
+   "driver_en": "Pierre Gasly",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 12
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/13/results/",
+  "wiki_en_title": "2023 Dutch Grand Prix",
+  "wiki_ko_title": "2023년 네덜란드 그랑프리",
+  "wiki_ko_length": 3131,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 네덜란드 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Dutch Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_14",
+  "season": 2023,
+  "round": 14,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Italian Grand Prix",
+  "name_ko": "이탈리아 그랑프리",
+  "date": "2023-09-03",
+  "circuit": "Autodromo Nazionale di Monza",
+  "locality": "Monza",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 51,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 5
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/14/results/",
+  "wiki_en_title": "2023 Italian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Italian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_15",
+  "season": 2023,
+  "round": 15,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Singapore Grand Prix",
+  "name_ko": "싱가포르 그랑프리",
+  "date": "2023-09-17",
+  "circuit": "Marina Bay Street Circuit",
+  "locality": "Marina Bay",
+  "country_en": "Singapore",
+  "country_ko": "싱가포르",
+  "has_sprint": false,
+  "laps": 62,
+  "winner": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 4
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/15/results/",
+  "wiki_en_title": "2023 Singapore Grand Prix",
+  "wiki_ko_title": "2023년 싱가포르 그랑프리",
+  "wiki_ko_length": 3413,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2023년 싱가포르 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2023 Singapore Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2023_16",
+  "season": 2023,
+  "round": 16,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Japanese Grand Prix",
+  "name_ko": "일본 그랑프리",
+  "date": "2023-09-24",
+  "circuit": "Suzuka Circuit",
+  "locality": "Suzuka",
+  "country_en": "Japan",
+  "country_ko": "일본",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/16/results/",
+  "wiki_en_title": "2023 Japanese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Japanese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_17",
+  "season": 2023,
+  "round": 17,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Qatar Grand Prix",
+  "name_ko": "카타르 그랑프리",
+  "date": "2023-10-08",
+  "circuit": "Lusail International Circuit",
+  "locality": "Lusail",
+  "country_en": "Qatar",
+  "country_ko": "카타르",
+  "has_sprint": true,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 6
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 10
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/17/results/",
+  "wiki_en_title": "2023 Qatar Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Qatar Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_18",
+  "season": 2023,
+  "round": 18,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "United States Grand Prix",
+  "name_ko": "미국 그랑프리",
+  "date": "2023-10-22",
+  "circuit": "Circuit of the Americas",
+  "locality": "Austin",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": true,
+  "laps": 56,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 6
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "쓰노다 유키",
+   "driver_en": "Yuki Tsunoda",
+   "team": "알파타우리",
+   "team_en": "AlphaTauri",
+   "grid": 11
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/18/results/",
+  "wiki_en_title": "2023 United States Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 United States Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_19",
+  "season": 2023,
+  "round": 19,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Mexico City Grand Prix",
+  "name_ko": "멕시코시티 그랑프리",
+  "date": "2023-10-29",
+  "circuit": "Autódromo Hermanos Rodríguez",
+  "locality": "Mexico City",
+  "country_en": "Mexico",
+  "country_ko": "멕시코",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/19/results/",
+  "wiki_en_title": "2023 Mexico City Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Mexico City Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_20",
+  "season": 2023,
+  "round": 20,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "São Paulo Grand Prix",
+  "name_ko": "상파울루 그랑프리",
+  "date": "2023-11-05",
+  "circuit": "Autódromo José Carlos Pace",
+  "locality": "São Paulo",
+  "country_en": "Brazil",
+  "country_ko": "브라질",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 6
+  },
+  "third": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 6,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/20/results/",
+  "wiki_en_title": "2023 São Paulo Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 São Paulo Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_21",
+  "season": 2023,
+  "round": 21,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Las Vegas Grand Prix",
+  "name_ko": "라스베이거스 그랑프리",
+  "date": "2023-11-19",
+  "circuit": "Las Vegas Strip Street Circuit",
+  "locality": "Las Vegas",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 11
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 18
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/21/results/",
+  "wiki_en_title": "2023 Las Vegas Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Las Vegas Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2023_22",
+  "season": 2023,
+  "round": 22,
+  "is_season_opener": false,
+  "is_season_finale": true,
+  "name_en": "Abu Dhabi Grand Prix",
+  "name_ko": "아부다비 그랑프리",
+  "date": "2023-11-26",
+  "circuit": "Yas Marina Circuit",
+  "locality": "Abu Dhabi",
+  "country_en": "UAE",
+  "country_ko": "아랍에미리트",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2023/22/results/",
+  "wiki_en_title": "2023 Abu Dhabi Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2023 Abu Dhabi Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_01",
+  "season": 2024,
+  "round": 1,
+  "is_season_opener": true,
+  "is_season_finale": false,
+  "name_en": "Bahrain Grand Prix",
+  "name_ko": "바레인 그랑프리",
+  "date": "2024-03-02",
+  "circuit": "Bahrain International Circuit",
+  "locality": "Sakhir",
+  "country_en": "Bahrain",
+  "country_ko": "바레인",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 5
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/1/results/",
+  "wiki_en_title": "2024 Bahrain Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Bahrain Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_02",
+  "season": 2024,
+  "round": 2,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Saudi Arabian Grand Prix",
+  "name_ko": "사우디아라비아 그랑프리",
+  "date": "2024-03-09",
+  "circuit": "Jeddah Corniche Circuit",
+  "locality": "Jeddah",
+  "country_en": "Saudi Arabia",
+  "country_ko": "사우디아라비아",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/2/results/",
+  "wiki_en_title": "2024 Saudi Arabian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Saudi Arabian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_03",
+  "season": 2024,
+  "round": 3,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Australian Grand Prix",
+  "name_ko": "호주 그랑프리",
+  "date": "2024-03-24",
+  "circuit": "Albert Park Grand Prix Circuit",
+  "locality": "Melbourne",
+  "country_en": "Australia",
+  "country_ko": "호주",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "starters": 19,
+  "retirements": 3,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/3/results/",
+  "wiki_en_title": "2024 Australian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Australian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_04",
+  "season": 2024,
+  "round": 4,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Japanese Grand Prix",
+  "name_ko": "일본 그랑프리",
+  "date": "2024-04-07",
+  "circuit": "Suzuka Circuit",
+  "locality": "Suzuka",
+  "country_en": "Japan",
+  "country_ko": "일본",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/4/results/",
+  "wiki_en_title": "2024 Japanese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Japanese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_05",
+  "season": 2024,
+  "round": 5,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Chinese Grand Prix",
+  "name_ko": "중국 그랑프리",
+  "date": "2024-04-21",
+  "circuit": "Shanghai International Circuit",
+  "locality": "Shanghai",
+  "country_en": "China",
+  "country_ko": "중국",
+  "has_sprint": true,
+  "laps": 56,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 4
+  },
+  "third": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/5/results/",
+  "wiki_en_title": "2024 Chinese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Chinese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_06",
+  "season": 2024,
+  "round": 6,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Miami Grand Prix",
+  "name_ko": "마이애미 그랑프리",
+  "date": "2024-05-05",
+  "circuit": "Miami International Autodrome",
+  "locality": "Miami",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": true,
+  "laps": 57,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/6/results/",
+  "wiki_en_title": "2024 Miami Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Miami Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_07",
+  "season": 2024,
+  "round": 7,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Emilia Romagna Grand Prix",
+  "name_ko": "에밀리아로마냐 그랑프리",
+  "date": "2024-05-19",
+  "circuit": "Autodromo Enzo e Dino Ferrari",
+  "locality": "Imola",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 63,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/7/results/",
+  "wiki_en_title": "2024 Emilia Romagna Grand Prix",
+  "wiki_ko_title": "2024년 에밀리아로마냐 그랑프리",
+  "wiki_ko_length": 9680,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2024년 에밀리아로마냐 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2024 Emilia Romagna Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2024_08",
+  "season": 2024,
+  "round": 8,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Monaco Grand Prix",
+  "name_ko": "모나코 그랑프리",
+  "date": "2024-05-26",
+  "circuit": "Circuit de Monaco",
+  "locality": "Monte Carlo",
+  "country_en": "Monaco",
+  "country_ko": "모나코",
+  "has_sprint": false,
+  "laps": 78,
+  "winner": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/8/results/",
+  "wiki_en_title": "2024 Monaco Grand Prix",
+  "wiki_ko_title": "2024년 모나코 그랑프리",
+  "wiki_ko_length": 10148,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2024년 모나코 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2024 Monaco Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2024_09",
+  "season": 2024,
+  "round": 9,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Canadian Grand Prix",
+  "name_ko": "캐나다 그랑프리",
+  "date": "2024-06-09",
+  "circuit": "Circuit Gilles Villeneuve",
+  "locality": "Montreal",
+  "country_en": "Canada",
+  "country_ko": "캐나다",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/9/results/",
+  "wiki_en_title": "2024 Canadian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Canadian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_10",
+  "season": 2024,
+  "round": 10,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Spanish Grand Prix",
+  "name_ko": "스페인 그랑프리",
+  "date": "2024-06-23",
+  "circuit": "Circuit de Barcelona-Catalunya",
+  "locality": "Barcelona",
+  "country_en": "Spain",
+  "country_ko": "스페인",
+  "has_sprint": false,
+  "laps": 66,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/10/results/",
+  "wiki_en_title": "2024 Spanish Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Spanish Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_11",
+  "season": 2024,
+  "round": 11,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Austrian Grand Prix",
+  "name_ko": "오스트리아 그랑프리",
+  "date": "2024-06-30",
+  "circuit": "Red Bull Ring",
+  "locality": "Spielberg",
+  "country_en": "Austria",
+  "country_ko": "오스트리아",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 7
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "페르난도 알론소",
+   "driver_en": "Fernando Alonso",
+   "team": "애스턴 마틴",
+   "team_en": "Aston Martin",
+   "grid": 15
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/11/results/",
+  "wiki_en_title": "2024 Austrian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Austrian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_12",
+  "season": 2024,
+  "round": 12,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "British Grand Prix",
+  "name_ko": "영국 그랑프리",
+  "date": "2024-07-07",
+  "circuit": "Silverstone Circuit",
+  "locality": "Silverstone",
+  "country_en": "UK",
+  "country_ko": "영국",
+  "has_sprint": false,
+  "laps": 52,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 4
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/12/results/",
+  "wiki_en_title": "2024 British Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 British Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_13",
+  "season": 2024,
+  "round": 13,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Hungarian Grand Prix",
+  "name_ko": "헝가리 그랑프리",
+  "date": "2024-07-21",
+  "circuit": "Hungaroring",
+  "locality": "Budapest",
+  "country_en": "Hungary",
+  "country_ko": "헝가리",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "third": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 17
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/13/results/",
+  "wiki_en_title": "2024 Hungarian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Hungarian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_14",
+  "season": 2024,
+  "round": 14,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Belgian Grand Prix",
+  "name_ko": "벨기에 그랑프리",
+  "date": "2024-07-28",
+  "circuit": "Circuit de Spa-Francorchamps",
+  "locality": "Spa",
+  "country_en": "Belgium",
+  "country_ko": "벨기에",
+  "has_sprint": false,
+  "laps": 44,
+  "winner": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "세르히오 페레스",
+   "driver_en": "Sergio Pérez",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/14/results/",
+  "wiki_en_title": "2024 Belgian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Belgian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_15",
+  "season": 2024,
+  "round": 15,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Dutch Grand Prix",
+  "name_ko": "네덜란드 그랑프리",
+  "date": "2024-08-25",
+  "circuit": "Circuit Park Zandvoort",
+  "locality": "Zandvoort",
+  "country_en": "Netherlands",
+  "country_ko": "네덜란드",
+  "has_sprint": false,
+  "laps": 72,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 6
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/15/results/",
+  "wiki_en_title": "2024 Dutch Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Dutch Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_16",
+  "season": 2024,
+  "round": 16,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Italian Grand Prix",
+  "name_ko": "이탈리아 그랑프리",
+  "date": "2024-09-01",
+  "circuit": "Autodromo Nazionale di Monza",
+  "locality": "Monza",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/16/results/",
+  "wiki_en_title": "2024 Italian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Italian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_17",
+  "season": 2024,
+  "round": 17,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Azerbaijan Grand Prix",
+  "name_ko": "아제르바이잔 그랑프리",
+  "date": "2024-09-15",
+  "circuit": "Baku City Circuit",
+  "locality": "Baku",
+  "country_en": "Azerbaijan",
+  "country_ko": "아제르바이잔",
+  "has_sprint": false,
+  "laps": 51,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 15
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/17/results/",
+  "wiki_en_title": "2024 Azerbaijan Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Azerbaijan Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_18",
+  "season": 2024,
+  "round": 18,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Singapore Grand Prix",
+  "name_ko": "싱가포르 그랑프리",
+  "date": "2024-09-22",
+  "circuit": "Marina Bay Street Circuit",
+  "locality": "Marina Bay",
+  "country_en": "Singapore",
+  "country_ko": "싱가포르",
+  "has_sprint": false,
+  "laps": 62,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "대니얼 리카도",
+   "driver_en": "Daniel Ricciardo",
+   "team": "RB",
+   "team_en": "RB F1 Team",
+   "grid": 16
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/18/results/",
+  "wiki_en_title": "2024 Singapore Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Singapore Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_19",
+  "season": 2024,
+  "round": 19,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "United States Grand Prix",
+  "name_ko": "미국 그랑프리",
+  "date": "2024-10-20",
+  "circuit": "Circuit of the Americas",
+  "locality": "Austin",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": true,
+  "laps": 56,
+  "winner": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "second": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "third": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "에스테반 오콘",
+   "driver_en": "Esteban Ocon",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 12
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/19/results/",
+  "wiki_en_title": "2024 United States Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 United States Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_20",
+  "season": 2024,
+  "round": 20,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Mexico City Grand Prix",
+  "name_ko": "멕시코시티 그랑프리",
+  "date": "2024-10-27",
+  "circuit": "Autódromo Hermanos Rodríguez",
+  "locality": "Mexico City",
+  "country_en": "Mexico",
+  "country_ko": "멕시코",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/20/results/",
+  "wiki_en_title": "2024 Mexico City Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Mexico City Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_21",
+  "season": 2024,
+  "round": 21,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "São Paulo Grand Prix",
+  "name_ko": "상파울루 그랑프리",
+  "date": "2024-11-03",
+  "circuit": "Autódromo José Carlos Pace",
+  "locality": "São Paulo",
+  "country_en": "Brazil",
+  "country_ko": "브라질",
+  "has_sprint": true,
+  "laps": 69,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 17
+  },
+  "second": {
+   "driver": "에스테반 오콘",
+   "driver_en": "Esteban Ocon",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 4
+  },
+  "third": {
+   "driver": "피에르 가슬리",
+   "driver_en": "Pierre Gasly",
+   "team": "알핀",
+   "team_en": "Alpine F1 Team",
+   "grid": 13
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 17
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/21/results/",
+  "wiki_en_title": "2024 São Paulo Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 São Paulo Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_22",
+  "season": 2024,
+  "round": 22,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Las Vegas Grand Prix",
+  "name_ko": "라스베이거스 그랑프리",
+  "date": "2024-11-23",
+  "circuit": "Las Vegas Strip Street Circuit",
+  "locality": "Las Vegas",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 10
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/22/results/",
+  "wiki_en_title": "2024 Las Vegas Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Las Vegas Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_23",
+  "season": 2024,
+  "round": 23,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Qatar Grand Prix",
+  "name_ko": "카타르 그랑프리",
+  "date": "2024-12-01",
+  "circuit": "Lusail International Circuit",
+  "locality": "Lusail",
+  "country_en": "Qatar",
+  "country_ko": "카타르",
+  "has_sprint": true,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 5
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/23/results/",
+  "wiki_en_title": "2024 Qatar Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2024 Qatar Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2024_24",
+  "season": 2024,
+  "round": 24,
+  "is_season_opener": false,
+  "is_season_finale": true,
+  "name_en": "Abu Dhabi Grand Prix",
+  "name_ko": "아부다비 그랑프리",
+  "date": "2024-12-08",
+  "circuit": "Yas Marina Circuit",
+  "locality": "Abu Dhabi",
+  "country_en": "UAE",
+  "country_ko": "아랍에미리트",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 19
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "케빈 마그누센",
+   "driver_en": "Kevin Magnussen",
+   "team": "하스",
+   "team_en": "Haas F1 Team",
+   "grid": 14
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2024/24/results/",
+  "wiki_en_title": "2024 Abu Dhabi Grand Prix",
+  "wiki_ko_title": "2024년 아부다비 그랑프리",
+  "wiki_ko_length": 9746,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2024년 아부다비 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2024 Abu Dhabi Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2025_01",
+  "season": 2025,
+  "round": 1,
+  "is_season_opener": true,
+  "is_season_finale": false,
+  "name_en": "Australian Grand Prix",
+  "name_ko": "호주 그랑프리",
+  "date": "2025-03-16",
+  "circuit": "Albert Park Grand Prix Circuit",
+  "locality": "Melbourne",
+  "country_en": "Australia",
+  "country_ko": "호주",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 6,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/1/results/",
+  "wiki_en_title": "2025 Australian Grand Prix",
+  "wiki_ko_title": "2025년 오스트레일리아 그랑프리",
+  "wiki_ko_length": 3411,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2025년 오스트레일리아 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2025 Australian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2025_02",
+  "season": 2025,
+  "round": 2,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Chinese Grand Prix",
+  "name_ko": "중국 그랑프리",
+  "date": "2025-03-23",
+  "circuit": "Shanghai International Circuit",
+  "locality": "Shanghai",
+  "country_en": "China",
+  "country_ko": "중국",
+  "has_sprint": true,
+  "laps": 56,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/2/results/",
+  "wiki_en_title": "2025 Chinese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Chinese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_03",
+  "season": 2025,
+  "round": 3,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Japanese Grand Prix",
+  "name_ko": "일본 그랑프리",
+  "date": "2025-04-06",
+  "circuit": "Suzuka Circuit",
+  "locality": "Suzuka",
+  "country_en": "Japan",
+  "country_ko": "일본",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "안드레아 키미 안토넬리",
+   "driver_en": "Andrea Kimi Antonelli",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/3/results/",
+  "wiki_en_title": "2025 Japanese Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Japanese Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_04",
+  "season": 2025,
+  "round": 4,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Bahrain Grand Prix",
+  "name_ko": "바레인 그랑프리",
+  "date": "2025-04-13",
+  "circuit": "Bahrain International Circuit",
+  "locality": "Sakhir",
+  "country_en": "Bahrain",
+  "country_ko": "바레인",
+  "has_sprint": false,
+  "laps": 57,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 3
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 6
+  },
+  "grid_one": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/4/results/",
+  "wiki_en_title": "2025 Bahrain Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Bahrain Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_05",
+  "season": 2025,
+  "round": 5,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Saudi Arabian Grand Prix",
+  "name_ko": "사우디아라비아 그랑프리",
+  "date": "2025-04-20",
+  "circuit": "Jeddah Corniche Circuit",
+  "locality": "Jeddah",
+  "country_en": "Saudi Arabia",
+  "country_ko": "사우디아라비아",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 10
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/5/results/",
+  "wiki_en_title": "2025 Saudi Arabian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Saudi Arabian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_06",
+  "season": 2025,
+  "round": 6,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Miami Grand Prix",
+  "name_ko": "마이애미 그랑프리",
+  "date": "2025-05-04",
+  "circuit": "Miami International Autodrome",
+  "locality": "Miami",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": true,
+  "laps": 57,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 4
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/6/results/",
+  "wiki_en_title": "2025 Miami Grand Prix",
+  "wiki_ko_title": "2025년 마이애미 그랑프리",
+  "wiki_ko_length": 4344,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2025년 마이애미 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2025 Miami Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2025_07",
+  "season": 2025,
+  "round": 7,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Emilia Romagna Grand Prix",
+  "name_ko": "에밀리아로마냐 그랑프리",
+  "date": "2025-05-18",
+  "circuit": "Autodromo Enzo e Dino Ferrari",
+  "locality": "Imola",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 63,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 4
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "grid_one": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/7/results/",
+  "wiki_en_title": "2025 Emilia Romagna Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Emilia Romagna Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_08",
+  "season": 2025,
+  "round": 8,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Monaco Grand Prix",
+  "name_ko": "모나코 그랑프리",
+  "date": "2025-05-25",
+  "circuit": "Circuit de Monaco",
+  "locality": "Monte Carlo",
+  "country_en": "Monaco",
+  "country_ko": "모나코",
+  "has_sprint": false,
+  "laps": 78,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/8/results/",
+  "wiki_en_title": "2025 Monaco Grand Prix",
+  "wiki_ko_title": "2025년 모나코 그랑프리",
+  "wiki_ko_length": 4018,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2025년 모나코 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2025 Monaco Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2025_09",
+  "season": 2025,
+  "round": 9,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Spanish Grand Prix",
+  "name_ko": "스페인 그랑프리",
+  "date": "2025-06-01",
+  "circuit": "Circuit de Barcelona-Catalunya",
+  "locality": "Barcelona",
+  "country_en": "Spain",
+  "country_ko": "스페인",
+  "has_sprint": false,
+  "laps": 66,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 7
+  },
+  "grid_one": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 19,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/9/results/",
+  "wiki_en_title": "2025 Spanish Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Spanish Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_10",
+  "season": 2025,
+  "round": 10,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Canadian Grand Prix",
+  "name_ko": "캐나다 그랑프리",
+  "date": "2025-06-15",
+  "circuit": "Circuit Gilles Villeneuve",
+  "locality": "Montreal",
+  "country_en": "Canada",
+  "country_ko": "캐나다",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "안드레아 키미 안토넬리",
+   "driver_en": "Andrea Kimi Antonelli",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/10/results/",
+  "wiki_en_title": "2025 Canadian Grand Prix",
+  "wiki_ko_title": "2025년 캐나다 그랑프리",
+  "wiki_ko_length": 3397,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2025년 캐나다 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2025 Canadian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2025_11",
+  "season": 2025,
+  "round": 11,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Austrian Grand Prix",
+  "name_ko": "오스트리아 그랑프리",
+  "date": "2025-06-29",
+  "circuit": "Red Bull Ring",
+  "locality": "Spielberg",
+  "country_en": "Austria",
+  "country_ko": "오스트리아",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/11/results/",
+  "wiki_en_title": "2025 Austrian Grand Prix",
+  "wiki_ko_title": "2025년 오스트리아 그랑프리",
+  "wiki_ko_length": 2773,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2025년 오스트리아 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2025 Austrian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 짧음"
+ },
+ {
+  "race_id": "2025_12",
+  "season": 2025,
+  "round": 12,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "British Grand Prix",
+  "name_ko": "영국 그랑프리",
+  "date": "2025-07-06",
+  "circuit": "Silverstone Circuit",
+  "locality": "Silverstone",
+  "country_en": "UK",
+  "country_ko": "영국",
+  "has_sprint": false,
+  "laps": 52,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "니코 휠켄베르크",
+   "driver_en": "Nico Hülkenberg",
+   "team": "자우버",
+   "team_en": "Sauber",
+   "grid": 19
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/12/results/",
+  "wiki_en_title": "2025 British Grand Prix",
+  "wiki_ko_title": "2025년 영국 그랑프리",
+  "wiki_ko_length": 3157,
+  "item_docs": [
+   {
+    "lang": "ko",
+    "title": "2025년 영국 그랑프리"
+   },
+   {
+    "lang": "en",
+    "title": "2025 British Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "한국어 충분"
+ },
+ {
+  "race_id": "2025_13",
+  "season": 2025,
+  "round": 13,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Belgian Grand Prix",
+  "name_ko": "벨기에 그랑프리",
+  "date": "2025-07-27",
+  "circuit": "Circuit de Spa-Francorchamps",
+  "locality": "Spa",
+  "country_en": "Belgium",
+  "country_ko": "벨기에",
+  "has_sprint": true,
+  "laps": 44,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "안드레아 키미 안토넬리",
+   "driver_en": "Andrea Kimi Antonelli",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 19
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/13/results/",
+  "wiki_en_title": "2025 Belgian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Belgian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_14",
+  "season": 2025,
+  "round": 14,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Hungarian Grand Prix",
+  "name_ko": "헝가리 그랑프리",
+  "date": "2025-08-03",
+  "circuit": "Hungaroring",
+  "locality": "Budapest",
+  "country_en": "Hungary",
+  "country_ko": "헝가리",
+  "has_sprint": false,
+  "laps": 70,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/14/results/",
+  "wiki_en_title": "2025 Hungarian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Hungarian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_15",
+  "season": 2025,
+  "round": 15,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Dutch Grand Prix",
+  "name_ko": "네덜란드 그랑프리",
+  "date": "2025-08-31",
+  "circuit": "Circuit Park Zandvoort",
+  "locality": "Zandvoort",
+  "country_en": "Netherlands",
+  "country_ko": "네덜란드",
+  "has_sprint": false,
+  "laps": 72,
+  "winner": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "third": {
+   "driver": "이삭 하자르",
+   "driver_en": "Isack Hadjar",
+   "team": "RB",
+   "team_en": "RB F1 Team",
+   "grid": 4
+  },
+  "grid_one": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/15/results/",
+  "wiki_en_title": "2025 Dutch Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Dutch Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_16",
+  "season": 2025,
+  "round": 16,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Italian Grand Prix",
+  "name_ko": "이탈리아 그랑프리",
+  "date": "2025-09-07",
+  "circuit": "Autodromo Nazionale di Monza",
+  "locality": "Monza",
+  "country_en": "Italy",
+  "country_ko": "이탈리아",
+  "has_sprint": false,
+  "laps": 53,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 2,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/16/results/",
+  "wiki_en_title": "2025 Italian Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Italian Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_17",
+  "season": 2025,
+  "round": 17,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Azerbaijan Grand Prix",
+  "name_ko": "아제르바이잔 그랑프리",
+  "date": "2025-09-21",
+  "circuit": "Baku City Circuit",
+  "locality": "Baku",
+  "country_en": "Azerbaijan",
+  "country_ko": "아제르바이잔",
+  "has_sprint": false,
+  "laps": 51,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 5
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "윌리엄스",
+   "team_en": "Williams",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/17/results/",
+  "wiki_en_title": "2025 Azerbaijan Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Azerbaijan Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_18",
+  "season": 2025,
+  "round": 18,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Singapore Grand Prix",
+  "name_ko": "싱가포르 그랑프리",
+  "date": "2025-10-05",
+  "circuit": "Marina Bay Street Circuit",
+  "locality": "Marina Bay",
+  "country_en": "Singapore",
+  "country_ko": "싱가포르",
+  "has_sprint": false,
+  "laps": 62,
+  "winner": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "second": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes"
+  },
+  "fastest_lap": {
+   "driver": "루이스 해밀턴",
+   "driver_en": "Lewis Hamilton",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 6
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/18/results/",
+  "wiki_en_title": "2025 Singapore Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Singapore Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_19",
+  "season": 2025,
+  "round": 19,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "United States Grand Prix",
+  "name_ko": "미국 그랑프리",
+  "date": "2025-10-19",
+  "circuit": "Circuit of the Americas",
+  "locality": "Austin",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": true,
+  "laps": 56,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "third": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 3
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "안드레아 키미 안토넬리",
+   "driver_en": "Andrea Kimi Antonelli",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 7
+  },
+  "starters": 20,
+  "retirements": 1,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/19/results/",
+  "wiki_en_title": "2025 United States Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 United States Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_20",
+  "season": 2025,
+  "round": 20,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Mexico City Grand Prix",
+  "name_ko": "멕시코시티 그랑프리",
+  "date": "2025-10-26",
+  "circuit": "Autódromo Hermanos Rodríguez",
+  "locality": "Mexico City",
+  "country_en": "Mexico",
+  "country_ko": "멕시코",
+  "has_sprint": false,
+  "laps": 71,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 2
+  },
+  "third": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 5
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/20/results/",
+  "wiki_en_title": "2025 Mexico City Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Mexico City Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_21",
+  "season": 2025,
+  "round": 21,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "São Paulo Grand Prix",
+  "name_ko": "상파울루 그랑프리",
+  "date": "2025-11-09",
+  "circuit": "Autódromo José Carlos Pace",
+  "locality": "São Paulo",
+  "country_en": "Brazil",
+  "country_ko": "브라질",
+  "has_sprint": true,
+  "laps": 71,
+  "winner": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "second": {
+   "driver": "안드레아 키미 안토넬리",
+   "driver_en": "Andrea Kimi Antonelli",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 2
+  },
+  "third": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 19
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "알렉산더 알본",
+   "driver_en": "Alexander Albon",
+   "team": "윌리엄스",
+   "team_en": "Williams",
+   "grid": 12
+  },
+  "starters": 20,
+  "retirements": 3,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/21/results/",
+  "wiki_en_title": "2025 São Paulo Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 São Paulo Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_22",
+  "season": 2025,
+  "round": 22,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Las Vegas Grand Prix",
+  "name_ko": "라스베이거스 그랑프리",
+  "date": "2025-11-23",
+  "circuit": "Las Vegas Strip Street Circuit",
+  "locality": "Las Vegas",
+  "country_en": "USA",
+  "country_ko": "미국",
+  "has_sprint": false,
+  "laps": 50,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "second": {
+   "driver": "조지 러셀",
+   "driver_en": "George Russell",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 4
+  },
+  "third": {
+   "driver": "안드레아 키미 안토넬리",
+   "driver_en": "Andrea Kimi Antonelli",
+   "team": "메르세데스",
+   "team_en": "Mercedes",
+   "grid": 17
+  },
+  "grid_one": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 2
+  },
+  "starters": 20,
+  "retirements": 5,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/22/results/",
+  "wiki_en_title": "2025 Las Vegas Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Las Vegas Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_23",
+  "season": 2025,
+  "round": 23,
+  "is_season_opener": false,
+  "is_season_finale": false,
+  "name_en": "Qatar Grand Prix",
+  "name_ko": "카타르 그랑프리",
+  "date": "2025-11-30",
+  "circuit": "Lusail International Circuit",
+  "locality": "Lusail",
+  "country_en": "Qatar",
+  "country_ko": "카타르",
+  "has_sprint": true,
+  "laps": 57,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 3
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "third": {
+   "driver": "카를로스 사인츠",
+   "driver_en": "Carlos Sainz",
+   "team": "윌리엄스",
+   "team_en": "Williams",
+   "grid": 7
+  },
+  "grid_one": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren"
+  },
+  "fastest_lap": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 1
+  },
+  "starters": 20,
+  "retirements": 4,
+  "pole_to_win": false,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/23/results/",
+  "wiki_en_title": "2025 Qatar Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Qatar Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ },
+ {
+  "race_id": "2025_24",
+  "season": 2025,
+  "round": 24,
+  "is_season_opener": false,
+  "is_season_finale": true,
+  "name_en": "Abu Dhabi Grand Prix",
+  "name_ko": "아부다비 그랑프리",
+  "date": "2025-12-07",
+  "circuit": "Yas Marina Circuit",
+  "locality": "Abu Dhabi",
+  "country_en": "UAE",
+  "country_ko": "아랍에미리트",
+  "has_sprint": false,
+  "laps": 58,
+  "winner": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "second": {
+   "driver": "오스카 피아스트리",
+   "driver_en": "Oscar Piastri",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 3
+  },
+  "third": {
+   "driver": "랜도 노리스",
+   "driver_en": "Lando Norris",
+   "team": "맥라렌",
+   "team_en": "McLaren",
+   "grid": 2
+  },
+  "grid_one": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull",
+   "grid": 1
+  },
+  "quali_pole": {
+   "driver": "막스 베르스타펜",
+   "driver_en": "Max Verstappen",
+   "team": "레드불",
+   "team_en": "Red Bull"
+  },
+  "fastest_lap": {
+   "driver": "샤를 르클레르",
+   "driver_en": "Charles Leclerc",
+   "team": "페라리",
+   "team_en": "Ferrari",
+   "grid": 5
+  },
+  "starters": 20,
+  "retirements": 0,
+  "pole_to_win": true,
+  "source_url": "https://api.jolpi.ca/ergast/f1/2025/24/results/",
+  "wiki_en_title": "2025 Abu Dhabi Grand Prix",
+  "wiki_ko_title": null,
+  "wiki_ko_length": 0,
+  "item_docs": [
+   {
+    "lang": "en",
+    "title": "2025 Abu Dhabi Grand Prix"
+   }
+  ],
+  "wiki_en_exists": true,
+  "wiki_ko_guessed": false,
+  "coverage": "영어만"
+ }
+]

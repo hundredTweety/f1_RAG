@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="dark">
+  <title>F1 레이스 노트</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@400;500;600;700&family=Saira+Condensed:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+  <script>
+    // 첫 진입 연출이 나올 때는 화면 내용이 먼저 비치지 않도록 처음부터 갠트리를 덮는다
+    try {
+      if (/[?&]intro=/.test(location.search) || (sessionStorage.getItem("f1-race-notes-intro") !== "1" && !matchMedia("(prefers-reduced-motion: reduce)").matches))
+        document.documentElement.classList.add("intro-first");
+    } catch (e) { /* 저장소가 막혀 있으면 연출 없이 시작 */ }
+  </script>
+</head>
+<body>
+  <!-- 첫 진입 연출: 스타트 라이트 다섯 칸이 차례로 켜졌다가 함께 꺼지면 서비스 이름이 나온다.
+       세션에서 처음 열 때만, 누르거나 아무 키나 누르면 건너뛴다. -->
+  <div id="intro" class="intro" aria-hidden="true" hidden>
+    <div class="gantry">
+      <span class="pod"><i></i><i></i></span><span class="pod"><i></i><i></i></span><span class="pod"><i></i><i></i></span><span class="pod"><i></i><i></i></span><span class="pod"><i></i><i></i></span>
+    </div>
+    <p class="intro-title"><span class="intro-f1">F1</span> 레이스 노트</p>
+    <p class="intro-skip">누르거나 아무 키나 누르면 건너뜁니다</p>
+  </div>
+
+  <!-- 피트월 상단: 스타트 라이트 5개, 서비스 이름, 색인 현황 -->
+  <header class="pitwall">
+    <div class="lights" id="lights" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span></div>
+    <div class="brand">
+      <h1 id="service-name">F1 레이스 노트</h1>
+      <p id="tagline" class="tagline"></p>
+    </div>
+    <dl class="index-counts" aria-label="색인 현황">
+      <div><dt>경기</dt><dd id="count-items">–</dd></div>
+      <div><dt>문서 청크</dt><dd id="count-docs">–</dd></div>
+    </dl>
+  </header>
+
+  <div id="banner" class="banner" role="status" hidden></div>
+
+  <div class="layout">
+    <!-- 왼쪽: 타이밍 타워처럼 시즌·경기 목록, 조건 탐색 -->
+    <aside class="tower" aria-label="경기 선택">
+      <div id="season-tabs" class="season-tabs" role="tablist" aria-label="시즌"></div>
+      <label class="search">
+        <span class="sr-only">경기 이름으로 찾기</span>
+        <input id="race-filter" type="search" placeholder="그랑프리, 서킷, 우승자로 찾기" autocomplete="off">
+      </label>
+      <ol id="race-list" class="race-list"></ol>
+
+      <section class="explore" aria-labelledby="explore-title">
+        <h2 id="explore-title">조건으로 경기 찾기</h2>
+        <form id="explore-form" class="explore-form">
+          <label>
+            <span class="sr-only">찾을 경기의 조건</span>
+            <textarea id="explore-input" rows="2" placeholder="예: 예선 1위가 아닌 드라이버가 1번 그리드에서 출발한 경기"></textarea>
+          </label>
+          <button type="submit" class="btn">찾기</button>
+        </form>
+        <div id="explore-results" class="explore-results" aria-live="polite"></div>
+      </section>
+    </aside>
+
+    <main class="main">
+      <!-- 경기를 고르기 전 -->
+      <section id="empty-state" class="empty-state">
+        <h2>경기를 고르면, 그 경기의 기록과 문서로 답합니다</h2>
+        <p>2021~2025 시즌 그랑프리마다 경기 결과, 위키백과 문서, 그 시즌 FIA 스포팅 규정을 근거로 씁니다. 답변의 근거 번호를 누르면 그 원문이 열립니다.</p>
+        <div class="empty-grid">
+          <div>
+            <h3>이렇게 물어보세요</h3>
+            <ul id="examples" class="examples"></ul>
+          </div>
+          <div>
+            <h3>근거 표시 색</h3>
+            <p class="hint">타이어 컴파운드 색으로 출처 종류를 구분합니다.</p>
+            <ul id="legend" class="legend"></ul>
+          </div>
+        </div>
+      </section>
+
+      <!-- 경기를 고른 뒤 -->
+      <section id="race-view" class="race-view" hidden>
+        <header class="race-head" id="race-head">
+          <p class="race-num" aria-hidden="true"><span id="race-round-num"></span></p>
+          <div class="race-head-body">
+            <p class="race-round" id="race-round"></p>
+            <h2 id="race-title"></h2>
+            <dl id="race-facts" class="race-facts"></dl>
+            <details class="collected">
+              <summary id="collected-summary">수집된 문서</summary>
+              <ul id="collected-list"></ul>
+            </details>
+          </div>
+          <!-- 우승 팀의 그 시즌 차 사진: 위키미디어 공용의 자유 라이선스 사진, 출처 표시 -->
+          <figure class="car-photo" id="car-photo" hidden>
+            <img id="car-img" alt="" decoding="async">
+            <figcaption>
+              <span id="car-name" class="car-name"></span>
+              <span id="car-credit" class="car-credit"></span>
+            </figcaption>
+          </figure>
+        </header>
+
+        <!-- 기록 스트립: 이 경기의 주요 기록을 한 줄로 -->
+        <dl class="timing-strip" id="timing-strip" aria-label="경기 주요 기록"></dl>
+
+        <div id="mode-tabs" class="mode-tabs" role="tablist" aria-label="기능"></div>
+
+        <div id="thread" class="thread" aria-live="polite"></div>
+
+        <form id="ask-form" class="ask-form">
+          <p id="mode-notice" class="mode-notice" hidden></p>
+          <div class="ask-row">
+            <label class="grow">
+              <span class="sr-only">질문</span>
+              <textarea id="question" rows="2" maxlength="500" required></textarea>
+            </label>
+            <button id="ask-button" type="submit" class="btn btn-primary">보내기</button>
+          </div>
+          <p class="ask-hint">Enter로 보내기, Shift+Enter로 줄 바꿈</p>
+        </form>
+      </section>
+    </main>
+  </div>
+
+  <!-- 근거 원문 패널: [근거 n]을 누르면 열린다 -->
+  <aside id="drawer" class="drawer" aria-labelledby="drawer-title" hidden>
+    <div class="drawer-head">
+      <span id="drawer-tyre" class="tyre" aria-hidden="true"></span>
+      <p id="drawer-n" class="drawer-n"></p>
+      <button type="button" id="drawer-close" class="drawer-close" aria-label="근거 패널 닫기">닫기</button>
+    </div>
+    <h2 id="drawer-title" tabindex="-1"></h2>
+    <p id="drawer-src" class="drawer-src"></p>
+    <pre id="drawer-text" class="drawer-text"></pre>
+    <a id="drawer-link" class="drawer-link" target="_blank" rel="noopener" hidden>원문 열기</a>
+  </aside>
+
+  <template id="tpl-answer">
+    <article class="msg msg-answer">
+      <div class="answer-body"></div>
+      <div class="notices"></div>
+      <section class="evidence">
+        <h3 class="evidence-title"></h3>
+        <ol class="evidence-list"></ol>
+      </section>
+      <div class="meta-line"></div>
+    </article>
+  </template>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

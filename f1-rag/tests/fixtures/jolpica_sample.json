@@ -1,0 +1,255 @@
+{
+ "_note": "테스트용 축약 데이터. 실제 경기 결과 전체가 아니며 형식 검증에만 쓴다.",
+ "2021": {
+  "schedule": [
+   {
+    "season": "2021",
+    "round": "10",
+    "raceName": "British Grand Prix",
+    "date": "2021-07-18",
+    "url": "https://en.wikipedia.org/wiki/2021_British_Grand_Prix",
+    "Circuit": {
+     "circuitName": "Silverstone Circuit",
+     "Location": {
+      "locality": "Silverstone",
+      "country": "UK"
+     }
+    },
+    "Sprint": {
+     "date": "2021-07-18"
+    }
+   },
+   {
+    "season": "2021",
+    "round": "22",
+    "raceName": "Abu Dhabi Grand Prix",
+    "date": "2021-12-12",
+    "url": "https://en.wikipedia.org/wiki/2021_Abu_Dhabi_Grand_Prix",
+    "Circuit": {
+     "circuitName": "Yas Marina Circuit",
+     "Location": {
+      "locality": "Abu Dhabi",
+      "country": "UAE"
+     }
+    }
+   }
+  ],
+  "results": {
+   "10": [
+    {
+     "position": "1",
+     "Driver": {
+      "givenName": "Lewis",
+      "familyName": "Hamilton"
+     },
+     "Constructor": {
+      "name": "Mercedes"
+     },
+     "grid": "2",
+     "laps": "52",
+     "status": "Finished"
+    },
+    {
+     "position": "2",
+     "Driver": {
+      "givenName": "Charles",
+      "familyName": "Leclerc"
+     },
+     "Constructor": {
+      "name": "Ferrari"
+     },
+     "grid": "4",
+     "laps": "52",
+     "status": "Finished"
+    },
+    {
+     "position": "3",
+     "Driver": {
+      "givenName": "Valtteri",
+      "familyName": "Bottas"
+     },
+     "Constructor": {
+      "name": "Mercedes"
+     },
+     "grid": "3",
+     "laps": "52",
+     "status": "Finished"
+    },
+    {
+     "position": "20",
+     "Driver": {
+      "givenName": "Max",
+      "familyName": "Verstappen"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     },
+     "grid": "1",
+     "laps": "0",
+     "status": "Accident"
+    }
+   ],
+   "22": [
+    {
+     "position": "1",
+     "Driver": {
+      "givenName": "Max",
+      "familyName": "Verstappen"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     },
+     "grid": "1",
+     "laps": "58",
+     "status": "Finished",
+     "FastestLap": {
+      "rank": "1"
+     }
+    },
+    {
+     "position": "2",
+     "Driver": {
+      "givenName": "Lewis",
+      "familyName": "Hamilton"
+     },
+     "Constructor": {
+      "name": "Mercedes"
+     },
+     "grid": "2",
+     "laps": "58",
+     "status": "Finished"
+    },
+    {
+     "position": "3",
+     "Driver": {
+      "givenName": "Carlos",
+      "familyName": "Sainz"
+     },
+     "Constructor": {
+      "name": "Ferrari"
+     },
+     "grid": "5",
+     "laps": "58",
+     "status": "Finished"
+    },
+    {
+     "position": "15",
+     "Driver": {
+      "givenName": "Sergio",
+      "familyName": "Pérez"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     },
+     "grid": "4",
+     "laps": "55",
+     "status": "Oil pressure"
+    }
+   ]
+  },
+  "qualifying": {
+   "10": [
+    {
+     "position": "1",
+     "Driver": {
+      "givenName": "Lewis",
+      "familyName": "Hamilton"
+     },
+     "Constructor": {
+      "name": "Mercedes"
+     }
+    }
+   ],
+   "22": [
+    {
+     "position": "1",
+     "Driver": {
+      "givenName": "Max",
+      "familyName": "Verstappen"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     }
+    }
+   ]
+  }
+ },
+ "2023": {
+  "schedule": [
+   {
+    "season": "2023",
+    "round": "2",
+    "raceName": "Saudi Arabian Grand Prix",
+    "date": "2023-03-19",
+    "url": "https://en.wikipedia.org/wiki/2023_Saudi_Arabian_Grand_Prix",
+    "Circuit": {
+     "circuitName": "Jeddah Corniche Circuit",
+     "Location": {
+      "locality": "Jeddah",
+      "country": "Saudi Arabia"
+     }
+    }
+   }
+  ],
+  "results": {
+   "2": [
+    {
+     "position": "1",
+     "Driver": {
+      "givenName": "Sergio",
+      "familyName": "Pérez"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     },
+     "grid": "1",
+     "laps": "50",
+     "status": "Finished"
+    },
+    {
+     "position": "2",
+     "Driver": {
+      "givenName": "Max",
+      "familyName": "Verstappen"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     },
+     "grid": "15",
+     "laps": "50",
+     "status": "Finished",
+     "FastestLap": {
+      "rank": "1"
+     }
+    },
+    {
+     "position": "3",
+     "Driver": {
+      "givenName": "Fernando",
+      "familyName": "Alonso"
+     },
+     "Constructor": {
+      "name": "Aston Martin"
+     },
+     "grid": "2",
+     "laps": "50",
+     "status": "Finished"
+    }
+   ]
+  },
+  "qualifying": {
+   "2": [
+    {
+     "position": "1",
+     "Driver": {
+      "givenName": "Sergio",
+      "familyName": "Pérez"
+     },
+     "Constructor": {
+      "name": "Red Bull"
+     }
+    }
+   ]
+  }
+ }
+}

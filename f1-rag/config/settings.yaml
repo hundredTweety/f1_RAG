@@ -1,0 +1,71 @@
+# 실행 설정 (2.5 검색 설정 설계)
+# 근거 품질에 영향을 주는 값은 코드가 아니라 이 파일에서 바꾼다. 검증 단계에서 값을 바꿔 비교한다.
+# 다른 설정 파일을 쓰려면 환경변수 F1RAG_SETTINGS=경로 를 지정한다.
+
+domain:
+  seasons: [2021, 2022, 2023, 2024, 2025]   # 진행 중인 시즌은 데이터가 바뀌므로 완료된 시즌만
+
+paths:
+  races_json: data/processed/races.json      # 항목 메타데이터 (scripts/build_races.py 가 생성)
+  coverage_csv: data/processed/wiki_coverage.csv
+  chroma_dir: data/chroma
+  cache_dir: data/cache                      # 수집 캐시 (NF2002)
+  regulations_dir: data/raw/regulations      # FIA 스포팅 규정 PDF: {시즌}.pdf
+  decisions_dir: data/raw/decisions          # FIA 심판 결정문 PDF: {race_id}/*.pdf
+  pdf_manifest: data/raw/manifest.yaml       # PDF 원문 주소 목록
+  offline_docs_dir: data/offline_docs        # 외부 호출이 막힌 환경에서 쓰는 문서 묶음
+  logs_dir: logs
+
+models:
+  # SSAFY GMS: .env 의 OPENAI_BASE_URL=https://gms.ssafy.io/gmsapi/api.openai.com/v1
+  # 모델 ID는 GMS 상세 페이지의 이름과 같아야 한다. 바꾼 뒤 python scripts/check_llm.py 로 확인
+  chat: gpt-5.6-terra         # 답변 생성(프롬프트 3)·평가 채점. 품질이 중요. 크레딧 여유가 있으면 gpt-5.6-sol
+  chat_fast: gpt-6-luna       # 검색어 추출·후보 선별·조건 탐색. 짧은 JSON만 내므로 초경량 모델. 탐색 결과가 이상하면 gpt-5.6-luna
+  embedding: text-embedding-3-small
+  use_responses_api: true     # GMS 안내의 /v1/responses 로 호출
+  reasoning_effort: low       # GPT-5 계열 추론 강도. 응답 시간(NF2001)을 줄이려 low. 모델이 거부하면 null
+  temperature: null           # GPT-5 계열은 temperature 를 지원하지 않는다. 다른 모델이면 0
+  timeout_sec: 120
+  max_retries: 4              # GMS 일시 오류(504 Gateway Timeout 등) 때 자동 재시도 횟수 (대화·임베딩 공통)
+
+collections:
+  items: f1_races         # 항목 메타데이터 (RAG 1)
+  docs: f1_docs           # 외부 문서: 위키백과 + FIA PDF (RAG 2)
+
+chunking:
+  wiki:                   # 위키백과: 섹션으로 먼저 나눈 뒤 길이 기준 분할
+    chunk_size: 1000
+    chunk_overlap: 200
+  regulation:             # FIA 규정: 조항 1개 = 청크 1개, 너무 긴 조항만 하위 조항 기준으로 분할
+    max_article_chars: 2500
+    chunk_size: 1500
+    chunk_overlap: 0
+  decision:               # 심판 결정문: 한 장짜리가 대부분이라 길이 기준 분할만
+    chunk_size: 1500
+    chunk_overlap: 150
+
+retrieval:
+  top_k: 6                # 경기 문서(위키·결정문) 근거 수. 메타데이터 1건과 규정 조항은 별도로 더함
+  search_type: mmr        # similarity | mmr  (F2014)
+  fetch_k: 30             # MMR 후보 수
+  mmr_lambda: 0.7         # 1에 가까울수록 관련도, 0에 가까울수록 다양성. 0.5는 관련 섹션이 빠져 0.7로 올림 (docs/03 4절)
+  regulation_k: 3         # 판정 해설·사실 판정에서 따로 더하는 그 시즌 규정 조항 수
+  regulation_k_qa: 2      # 질문하기에서 따로 더하는 규정 조항 수
+  explore_candidates: 30  # 조건 기반 탐색에서 LLM에게 보여 줄 후보 수
+
+collection:               # 외부 문서 수집 (F2003, F2004)
+  max_queries: 4          # 프롬프트 1이 뽑을 검색어 최대 수
+  results_per_query: 5    # 검색어 1개당 후보 문서 수
+  max_selected_docs: 4    # 프롬프트 2가 고를 수 있는 최대 문서 수
+  min_doc_chars: 300      # 이보다 짧은 문서는 버린다 (항목 자체 문서는 예외)
+  # 수집·검색에 쓸 위키백과 언어. 기본은 영어 원문만 쓴다.
+  # 한국어 경기 문서는 영어판을 줄여 옮긴 경우가 많고, 두 언어를 섞으면 사람 이름 표기(베르스타펜/페르스타펀)와
+  # 서술이 엇갈려 답변에 혼선이 생긴다. 한국어 문서도 쓰려면 [ko, en] (앞 언어부터 검색, 결과가 없을 때만 다음 언어).
+  languages: [en]
+  offline: false          # true 면 위키백과 대신 offline_docs_dir 문서 묶음을 사용
+
+http:
+  min_interval_sec: 1.0   # 같은 호스트 호출 사이 최소 간격 (NF2006)
+  retries: 4
+  timeout_sec: 20
+  backoff_sec: 1.0

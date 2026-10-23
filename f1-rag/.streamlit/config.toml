@@ -1,0 +1,8 @@
+[client]
+# Do not show stack traces in the UI (NF2004)
+showErrorDetails = "none"
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#e10600"
