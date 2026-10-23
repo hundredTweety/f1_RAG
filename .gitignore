@@ -29,3 +29,19 @@ build/
 .DS_Store
 Thumbs.db
 db.sqlite3
+
+# F1 RAG project-specific ignores
+data/chroma/
+data/chroma_*/
+data/cache/
+data/cache_*/
+data/raw/regulations/*.pdf
+data/raw/decisions/**/*.pdf
+logs/
+config/settings_empty.yaml
+*.tmp
+*.zip
+*.pyc
+.vscode/
+.idea/
+desktop.ini
