@@ -1,4 +1,4 @@
-"""4.1 데이터와 색인 확인 (F2001, F2002) + 규정 PDF (F2016)."""
+"""데이터와 색인 확인 + 규정 PDF."""
 
 from f1rag.domain import races as R
 from f1rag.domain.regulations import chunk_regulation, parse_articles

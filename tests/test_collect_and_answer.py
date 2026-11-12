@@ -1,4 +1,4 @@
-"""4.2 문서 수집과 색인 (F2003~F2005), 4.3 답변과 근거 (F2006~F2008), NF2002 캐시."""
+"""문서 수집과 색인, 답변과 근거, 수집 캐시."""
 
 from langchain_core.documents import Document
 from langchain_core.language_models.fake_chat_models import FakeListChatModel

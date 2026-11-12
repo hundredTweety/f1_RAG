@@ -1,8 +1,8 @@
-"""FastAPI 서버: HTML/CSS/JS 화면(web/)과 RAG 서비스를 잇는다 (F2013).
+"""FastAPI 서버: HTML/CSS/JS 화면(web/)과 RAG 서비스를 잇는다.
 
 실행: uvicorn f1rag.api.server:app --port 8000  → http://localhost:8000
 
-화면에는 API 키, 프롬프트 전문, 오류 추적 정보를 보내지 않는다 (NF2004).
+화면에는 API 키, 프롬프트 전문, 오류 추적 정보를 보내지 않는다.
 예상하지 못한 오류는 logs/app.log 에 남기고 화면에는 오류 번호만 보낸다.
 """
 

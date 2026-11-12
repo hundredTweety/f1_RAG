@@ -2,7 +2,7 @@
 
 - Jolpica-F1 API에서 시즌별 일정과 결선 결과를 받아 경기 1건 = 항목 1건으로 정리한다.
 - 경기마다 위키백과 문서(한국어 우선, 없거나 짧으면 영어)를 찾아 '항목 자체 문서'로 지정한다.
-- 항목 1건을 검색용 텍스트 하나로 만든다 (F2001, 2.2 항목 텍스트 설계).
+- 항목 1건을 검색용 텍스트 하나로 만든다 (2.2 항목 텍스트 설계).
 """
 
 from __future__ import annotations
@@ -206,7 +206,7 @@ def save_coverage_csv(races: list[dict], path: Path) -> None:
         writer.writerows({k: r.get(k) for k in fields} for r in races)
 
 
-# ---------------------------------------------------------------- 항목 텍스트 (F2001)
+# ---------------------------------------------------------------- 항목 텍스트
 
 
 def label(r: dict) -> str:
@@ -264,7 +264,7 @@ def build_item_text(r: dict) -> str:
 
 
 def item_metadata(r: dict) -> dict[str, Any]:
-    """메타데이터 청크에 함께 저장할 필드 (2.3). Chroma 메타데이터는 None을 허용하지 않아 빈 값은 뺀다."""
+    """메타데이터 청크에 함께 저장할 필드. Chroma 메타데이터는 None을 허용하지 않아 빈 값은 뺀다."""
     winner, grid_one = r.get("winner") or {}, r.get("grid_one") or {}
     quali = r.get("quali_pole") or {}
     meta = {

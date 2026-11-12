@@ -1,4 +1,4 @@
-"""소스코드·제출물에 API 키가 남아 있지 않은지 검사 (NF2003)."""
+"""소스코드·배포물에 API 키가 남아 있지 않은지 검사."""
 
 from __future__ import annotations
 

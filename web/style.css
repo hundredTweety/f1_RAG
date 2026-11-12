@@ -1,4 +1,4 @@
-/* F1 레이스 노트 — 화면 스타일 (F2013)
+/* F1 레이스 노트 — 화면 스타일
 
    콘셉트: 피트월 타이밍 화면.
    - 바탕은 카본 블랙, 패널은 그래파이트. 레이싱 레드는 '선택됨'과 '보내기'에만 쓴다.
@@ -301,7 +301,7 @@ textarea:focus-visible, input:focus-visible { outline-offset: 0; border-color: v
 }
 .splits span.lap { color: var(--sector-best); }
 
-/* ---------- 진행 상태: 랩의 세 섹터 (F2012) ---------- */
+/* ---------- 진행 상태: 랩의 세 섹터 ---------- */
 .lap-board {
   scroll-margin-bottom: 160px;
   background: var(--graphite); border: 1px solid var(--rule); border-radius: 3px; padding: 14px 16px;

@@ -1,4 +1,4 @@
-"""FIA 스포팅 규정·심판 결정문 PDF 색인 (F2016).
+"""FIA 스포팅 규정·심판 결정문 PDF 색인.
 
 - 규정: data/raw/regulations/{시즌}.pdf → 조항 단위 청크, source_type=fia_regulation, 시즌 필터용 season
 - 결정문: manifest 의 decisions 항목 → source_type=fia_decision, 경기 필터용 race_id

@@ -9,7 +9,7 @@ paths:
   races_json: data/processed/races.json      # 항목 메타데이터 (scripts/build_races.py 가 생성)
   coverage_csv: data/processed/wiki_coverage.csv
   chroma_dir: data/chroma
-  cache_dir: data/cache                      # 수집 캐시 (NF2002)
+  cache_dir: data/cache                      # 수집 캐시
   regulations_dir: data/raw/regulations      # FIA 스포팅 규정 PDF: {시즌}.pdf
   decisions_dir: data/raw/decisions          # FIA 심판 결정문 PDF: {race_id}/*.pdf
   pdf_manifest: data/raw/manifest.yaml       # PDF 원문 주소 목록
@@ -23,7 +23,7 @@ models:
   chat_fast: gpt-6-luna       # 검색어 추출·후보 선별·조건 탐색. 짧은 JSON만 내므로 초경량 모델. 탐색 결과가 이상하면 gpt-5.6-luna
   embedding: text-embedding-3-small
   use_responses_api: true     # GMS 안내의 /v1/responses 로 호출
-  reasoning_effort: low       # GPT-5 계열 추론 강도. 응답 시간(NF2001)을 줄이려 low. 모델이 거부하면 null
+  reasoning_effort: low       # GPT-5 계열 추론 강도. 응답 시간을 줄이려 low. 모델이 거부하면 null
   temperature: null           # GPT-5 계열은 temperature 를 지원하지 않는다. 다른 모델이면 0
   timeout_sec: 120
   max_retries: 4              # GMS 일시 오류(504 Gateway Timeout 등) 때 자동 재시도 횟수 (대화·임베딩 공통)
@@ -46,14 +46,14 @@ chunking:
 
 retrieval:
   top_k: 6                # 경기 문서(위키·결정문) 근거 수. 메타데이터 1건과 규정 조항은 별도로 더함
-  search_type: mmr        # similarity | mmr  (F2014)
+  search_type: mmr        # similarity | mmr
   fetch_k: 30             # MMR 후보 수
   mmr_lambda: 0.7         # 1에 가까울수록 관련도, 0에 가까울수록 다양성. 0.5는 관련 섹션이 빠져 0.7로 올림 (docs/03 4절)
   regulation_k: 3         # 판정 해설·사실 판정에서 따로 더하는 그 시즌 규정 조항 수
   regulation_k_qa: 2      # 질문하기에서 따로 더하는 규정 조항 수
   explore_candidates: 30  # 조건 기반 탐색에서 LLM에게 보여 줄 후보 수
 
-collection:               # 외부 문서 수집 (F2003, F2004)
+collection:               # 외부 문서 수집
   max_queries: 4          # 프롬프트 1이 뽑을 검색어 최대 수
   results_per_query: 5    # 검색어 1개당 후보 문서 수
   max_selected_docs: 4    # 프롬프트 2가 고를 수 있는 최대 문서 수
@@ -65,7 +65,7 @@ collection:               # 외부 문서 수집 (F2003, F2004)
   offline: false          # true 면 위키백과 대신 offline_docs_dir 문서 묶음을 사용
 
 http:
-  min_interval_sec: 1.0   # 같은 호스트 호출 사이 최소 간격 (NF2006)
+  min_interval_sec: 1.0   # 같은 호스트 호출 사이 최소 간격
   retries: 4
   timeout_sec: 20
   backoff_sec: 1.0

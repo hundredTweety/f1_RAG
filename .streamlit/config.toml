@@ -1,5 +1,5 @@
 [client]
-# Do not show stack traces in the UI (NF2004)
+# Do not show stack traces in the UI
 showErrorDetails = "none"
 toolbarMode = "minimal"
 
