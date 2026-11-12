@@ -1,4 +1,4 @@
-// F1 레이스 노트 — 화면 동작 (F2013)
+// F1 레이스 노트 — 화면 동작
 // 서버 API: GET /api/status, GET /api/races, GET /api/races/{id}/docs,
 //           POST /api/ask (NDJSON 스트림), POST /api/explore
 // 화면 콘셉트는 피트월 타이밍 화면이다. 답변 진행(NDJSON progress 이벤트의 stage)을
@@ -19,7 +19,7 @@ const state = {
   filter: "",
   current: null,      // 선택한 경기
   mode: "qa",
-  histories: {},      // 경기별 대화 기록 (F2009)
+  histories: {},      // 경기별 대화 기록
   busy: false,
 };
 
@@ -356,7 +356,7 @@ async function submitQuestion(ev) {
   input.value = "";
   renderThread();
 
-  // 진행 상태 (F2012): 랩의 세 섹터
+  // 진행 상태: 랩의 세 섹터
   const board = createLapBoard(question, mode.label);
   $("#thread").append(board.node);
   board.node.scrollIntoView({ block: "nearest" });
@@ -587,7 +587,7 @@ function flickHeaderLights(quick = false) {
   setTimeout(() => lights.forEach((l) => l.classList.remove("on")), 5 * step + 260);
 }
 
-// ---------- 조건 기반 탐색 (F2011)
+// ---------- 조건 기반 탐색
 async function submitExplore(ev) {
   ev.preventDefault();
   const condition = $("#explore-input").value.trim();

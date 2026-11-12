@@ -1,4 +1,4 @@
-"""항목 메타데이터 준비: Jolpica-F1 → data/processed/races.json (F2001 데이터 준비).
+"""항목 메타데이터 준비: Jolpica-F1 → data/processed/races.json (데이터 준비).
 
 경기마다 위키백과 '항목 자체 문서'(한국어 우선, 없거나 짧으면 영어)도 함께 정하고,
 커버리지 표를 data/processed/wiki_coverage.csv 로 남긴다 (2.1 도메인 확정 근거).

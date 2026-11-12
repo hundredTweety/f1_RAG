@@ -1,4 +1,4 @@
-# FIA PDF 원문 목록 (F2016, NF2007)
+# FIA PDF 원문 목록
 # - scripts/download_pdfs.py 가 이 목록대로 내려받아 data/raw/ 아래에 저장한다.
 # - FIA 문서는 재배포 허락을 확인하지 못했으므로 PDF 파일 자체는 저장소에 올리지 않는다(.gitignore).
 # - 규정은 시즌 중에도 개정(issue)된다. 아래 주소는 2026-10-21 검색으로 확인한 이슈이며,

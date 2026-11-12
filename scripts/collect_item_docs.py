@@ -1,7 +1,7 @@
-"""모든 경기의 '항목 자체 문서'를 미리 수집·색인한다 (선택, NF2001 첫 질문 응답 시간 단축).
+"""모든 경기의 '항목 자체 문서'를 미리 수집·색인한다 (선택, 첫 질문 응답 시간 단축).
 
 --export-offline 을 주면 받은 문서를 data/offline_docs 에도 저장해,
-외부 호출이 막힌 환경에서 settings.yaml 의 collection.offline: true 로 같은 문서를 쓸 수 있다 (F2004).
+외부 호출이 막힌 환경에서 settings.yaml 의 collection.offline: true 로 같은 문서를 쓸 수 있다.
 
 사용법
   python scripts/collect_item_docs.py

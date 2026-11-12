@@ -1,4 +1,4 @@
-"""RAG 사용 전후 답변 비교 (F2015, 4.6).
+"""RAG 사용 전후 답변 비교.
 
 같은 질문을 ① RAG 없이(기억만으로) ② 근거를 붙여(RAG) 한 번씩 답하게 하고
 세 기준으로 비교해 docs/04_RAG_전후_비교.md 를 만든다.
@@ -184,7 +184,7 @@ def write_markdown(rows: list[dict], settings, path: str, run_note: str) -> None
         return sum(1 for r in fact if r[side].get(key) == val)
 
     lines = [
-        "# RAG 사용 전후 답변 비교 (F2015)",
+        "# RAG 사용 전후 답변 비교",
         "",
         f"{run_note} / 모델 {settings.get('models.chat')} / "
         f"검색 {settings.get('retrieval.search_type')}, Top-k {settings.get('retrieval.top_k')}"

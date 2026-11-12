@@ -1,4 +1,4 @@
-"""프롬프트 세 개(검색어 추출 / 후보 선별 / 답변 생성)와 보조 프롬프트 (2.4).
+"""프롬프트 세 개(검색어 추출 / 후보 선별 / 답변 생성)와 보조 프롬프트.
 
 각 프롬프트의 system 메시지 첫머리에 '작업: …' 줄을 둔다. 모델에게 할 일을 분명히 하고,
 로그와 테스트에서 어떤 프롬프트가 호출됐는지 구분하는 데도 쓴다.
@@ -15,7 +15,7 @@ from langchain_core.prompts import ChatPromptTemplate
 
 from f1rag.domain import profile
 
-# ---------------------------------------------------------------- 프롬프트 1: 검색어 추출 (F2003)
+# ---------------------------------------------------------------- 프롬프트 1: 검색어 추출
 
 QUERY_EXTRACTION = ChatPromptTemplate.from_messages(
     [
@@ -38,7 +38,7 @@ QUERY_EXTRACTION = ChatPromptTemplate.from_messages(
     ]
 )
 
-# ---------------------------------------------------------------- 프롬프트 2: 후보 문서 선별 (F2004)
+# ---------------------------------------------------------------- 프롬프트 2: 후보 문서 선별
 
 CANDIDATE_SELECTION = ChatPromptTemplate.from_messages(
     [
@@ -57,7 +57,7 @@ CANDIDATE_SELECTION = ChatPromptTemplate.from_messages(
     ]
 )
 
-# ---------------------------------------------------------------- 프롬프트 3: 근거 기반 답변 (F2007)
+# ---------------------------------------------------------------- 프롬프트 3: 근거 기반 답변
 
 ANSWER_GENERATION = ChatPromptTemplate.from_messages(
     [
@@ -82,7 +82,7 @@ ANSWER_GENERATION = ChatPromptTemplate.from_messages(
     ]
 )
 
-# ---------------------------------------------------------------- 조건 기반 탐색 (F2011)
+# ---------------------------------------------------------------- 조건 기반 탐색
 
 EXPLORE_FILTER = ChatPromptTemplate.from_messages(
     [
@@ -101,7 +101,7 @@ EXPLORE_FILTER = ChatPromptTemplate.from_messages(
     ]
 )
 
-# ---------------------------------------------------------------- RAG 없이 답하기 (F2015 비교용)
+# ---------------------------------------------------------------- RAG 없이 답하기 (비교용)
 
 NO_RAG_BASELINE = ChatPromptTemplate.from_messages(
     [
@@ -110,7 +110,7 @@ NO_RAG_BASELINE = ChatPromptTemplate.from_messages(
     ]
 )
 
-# ---------------------------------------------------------------- 평가 채점 (F2015)
+# ---------------------------------------------------------------- 평가 채점
 
 JUDGE = ChatPromptTemplate.from_messages(
     [

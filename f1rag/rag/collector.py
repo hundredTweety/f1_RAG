@@ -1,4 +1,4 @@
-"""외부 문서 수집과 색인 (F2003 검색어 추출, F2004 수집, F2005 색인, NF2002 캐시).
+"""외부 문서 수집과 색인 (검색어 추출, 수집, 색인, 캐시).
 
 흐름
  1. 항목 자체 문서: 선택한 경기의 위키 문서는 선별·길이 규칙보다 우선해 항상 색인한다.
@@ -188,7 +188,7 @@ class Collector:
                 if len(report.errors) == errors_before:  # 문서가 없는 경우만 기록, 오류였다면 다음에 다시 시도
                     self.rt.cache.mark_item_doc(meta["race_id"], lang, title, None, 0)
                 continue
-            # 항목 자체 문서는 선별·길이 규칙보다 우선해 항상 색인한다 (F2004)
+            # 항목 자체 문서는 선별·길이 규칙보다 우선해 항상 색인한다
             n = self._index_page(page, meta, query="(항목 자체 문서)", is_item_doc=True)
             self.rt.cache.mark_item_doc(meta["race_id"], lang, title, page.doc_id, n)
             report.indexed.append(IndexedDoc(page.title, page.url, page.lang, n, True))

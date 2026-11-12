@@ -1,4 +1,4 @@
-"""검색 설정 비교 (F2014 유사도 vs MMR λ 0.5·0.7, 2.5 Top-k, 4.3·4.5).
+"""검색 설정 비교 (유사도 vs MMR λ 0.5·0.7, Top-k).
 
 이미 색인된 문서만 쓰고 외부 수집은 하지 않는다. 비교할 경기에 대해 먼저 질문을 한 번씩 해 두거나
 scripts/verify.py 를 실행해 문서를 수집해 둔다.
@@ -58,7 +58,7 @@ def main() -> None:
     cases = [(args.race, args.question)] if args.race and args.question else DEFAULT_CASES
 
     lines = [
-        "# 검색 설정 비교 (F2014, Top-k)",
+        "# 검색 설정 비교 (Top-k)",
         "",
         f"실행: {datetime.now().strftime('%Y-%m-%d %H:%M')} / fetch_k {rt.settings.get('retrieval.fetch_k')}, "
         f"설정 mmr_lambda {rt.settings.get('retrieval.mmr_lambda')} (Top-k 표에 사용)"

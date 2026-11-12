@@ -1,4 +1,4 @@
-"""Streamlit 화면 (F2009 항목 선택·질의응답, F2010 특화 기능, F2011 조건 탐색, F2012 진행 상태·안내).
+"""Streamlit 화면 (항목 선택·질의응답, 특화 기능, 조건 탐색, 진행 상태·안내).
 
 실행: streamlit run app.py
 """
@@ -27,7 +27,7 @@ def get_runtime():
 
 
 def friendly_error(exc: Exception, context: str) -> str:
-    """화면에는 안내 문구나 오류 번호만 보여 준다 (NF2004)."""
+    """화면에는 안내 문구나 오류 번호만 보여 준다."""
     if isinstance(exc, UserFacingError):
         return exc.message
     error_id = log_exception(logger, context)
@@ -149,7 +149,7 @@ def main() -> None:
     if mode.notice:
         st.caption(mode.notice)
 
-    history = ss.histories.setdefault(race_id, [])  # 경기별로 대화 기록을 따로 둔다 (F2009)
+    history = ss.histories.setdefault(race_id, [])  # 경기별로 대화 기록을 따로 둔다
     for msg in history:
         with st.chat_message(msg["role"]):
             if msg["role"] == "user":

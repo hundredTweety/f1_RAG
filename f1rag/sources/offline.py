@@ -1,6 +1,6 @@
 """오프라인 문서 묶음 출처.
 
-외부 문서 호출이 제한되는 환경에서 제공된 문서 묶음을 읽어 수집 단계를 대신한다 (F2004).
+외부 문서 호출이 제한되는 환경에서 제공된 문서 묶음을 읽어 수집 단계를 대신한다.
 문서 묶음 형식: {offline_docs_dir}/{lang}/*.json
   {"title": "...", "lang": "ko", "pageid": 123, "url": "https://...", "text": "..."}
 scripts/collect_item_docs.py --export-offline 으로 온라인 환경에서 미리 만들어 둘 수 있다.

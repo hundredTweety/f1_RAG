@@ -1,4 +1,4 @@
-"""PDF를 쪽 단위 텍스트로 바꾸는 공통 도구 (F2016)."""
+"""PDF를 쪽 단위 텍스트로 바꾸는 공통 도구."""
 
 from __future__ import annotations
 
