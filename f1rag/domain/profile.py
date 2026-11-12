@@ -1,4 +1,4 @@
-"""도메인 프로필: F1에 묶인 문구·규칙을 한곳에 모은다 (NF2005).
+"""도메인 프로필: F1에 묶인 문구·규칙을 한곳에 모은다.
 
 RAG 파이프라인(f1rag.rag), 화면(f1rag.ui, web/)은 이 파일의 값만 읽는다.
 다른 도메인으로 바꿀 때는 f1rag/domain 폴더만 교체하면 된다.
@@ -13,7 +13,7 @@ SERVICE_NAME = "F1 레이스 노트"
 SERVICE_TAGLINE = "경기 기록 · 위키백과 · FIA 규정을 근거로 답하는 F1 지식 서비스"
 ITEM_NOUN = "경기"
 
-# 프롬프트 1·3에서 쓰는 역할 (F2003 "도메인 전문가 역할")
+# 프롬프트 1·3에서 쓰는 역할 ("도메인 전문가 역할")
 EXPERT_ROLE = (
     "너는 2021~2025 시즌 F1 경기 기록과 FIA 스포팅 규정을 잘 아는 F1 전문 해설위원이다. "
     "경기 결과, 레이스 운영(세이프티카, 페널티, 포인트), 규정 조항을 정확하게 구분해서 말한다."
@@ -26,7 +26,7 @@ SOURCE_LABELS = {
     "fia_decision": "FIA 심판 결정문",
 }
 
-# 판단이 위험한 도메인(건강·금융)인가? F1은 아니므로 필수 면책은 없다 (2.1).
+# 판단이 위험한 도메인(건강·금융)인가? F1은 아니므로 필수 면책은 없다.
 RISKY_DOMAIN = False
 RISKY_DISCLAIMER = ""
 
@@ -160,7 +160,7 @@ def english_terms(text: str) -> list[str]:
 _YEAR_RE = re.compile(r"(20(?:2[1-5]))")
 
 
-# 조건 탐색에서 의미 검색 순위와 상관없이 후보에 반드시 넣을 시즌 안 위치 (F2011).
+# 조건 탐색에서 의미 검색 순위와 상관없이 후보에 반드시 넣을 시즌 안 위치.
 # "시즌 최종전" 조건은 의미 검색 상위 30건에 최종전 5건이 다 들어온다는 보장이 없어 따로 넣는다.
 EXPLORE_SEASON_POSITIONS = {"최종전": "last", "개막전": "first"}
 
@@ -182,7 +182,7 @@ def explore_fact_rules(condition: str) -> list:
 
 
 def explore_filter(condition: str) -> dict | None:
-    """조건 문장에 시즌 연도가 있으면 그 시즌으로 후보를 좁힌다 (F2011)."""
+    """조건 문장에 시즌 연도가 있으면 그 시즌으로 후보를 좁힌다."""
     years = sorted({int(y) for y in _YEAR_RE.findall(condition)})
     if not years:
         return None

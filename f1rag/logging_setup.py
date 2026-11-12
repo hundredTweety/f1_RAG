@@ -1,4 +1,4 @@
-"""로그 설정. 오류 상세는 화면 대신 logs/app.log 에만 남긴다 (NF2004)."""
+"""로그 설정. 오류 상세는 화면 대신 logs/app.log 에만 남긴다."""
 
 from __future__ import annotations
 

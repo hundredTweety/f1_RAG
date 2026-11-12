@@ -1,4 +1,4 @@
-"""화면-서버 요청·응답 형식 (F2013)."""
+"""화면-서버 요청·응답 형식."""
 
 from __future__ import annotations
 

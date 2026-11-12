@@ -1,6 +1,6 @@
-"""명세서 4장 검증을 실행 결과로 남긴다 → docs/results/verification_report.md
+"""실제 색인·모델로 검증 항목을 실행하고 결과를 남긴다 → docs/results/verification_report.md
 
-자동으로 확인할 수 있는 항목(4.1~4.3, 4.4 일부, 4.7 일부)을 실제 색인·모델로 실행한다.
+자동으로 확인할 수 있는 항목(4.1 데이터·색인 ~ 4.7 처리 시간)을 실제 색인·모델로 실행한다.
 화면 캡처가 필요한 항목은 '미확인(화면 캡처)'으로 남기고, 캡처 후 docs/03_검증_결과.md 에 기록한다.
 
 사용법
@@ -90,7 +90,7 @@ def main() -> None:
     report2 = rt.collector.collect(item, args.question)
     t_second = time.perf_counter() - t0
     rep.check(
-        "4.2", "같은 질문을 다시 물으면 수집하지 않음 (NF2002)",
+        "4.2", "같은 질문을 다시 물으면 수집하지 않음",
         not report2.indexed and all(q["cached"] for q in report2.queries),
         f"첫 수집 {t_first:.1f}초, 재질문 {t_second:.1f}초, 새로 색인 {len(report2.indexed)}건",
     )
@@ -162,14 +162,14 @@ def main() -> None:
     # ------------------------------------------------------------ 4.7 비기능 (자동 확인 가능한 부분)
     runs = [("질문하기", res), ("판정 해설", ruling), ("문서에 없는 질문", unknown)]
     times = [r["timings"].get("total", 0) for _, r in runs]
-    rep.check("4.7", "NF2001 대표 질문 처리 시간", max(times) < 30,
+    rep.check("4.7", "대표 질문 처리 시간", max(times) < 30,
               ", ".join(f"{name} {r['timings'].get('total', 0):.1f}초" for name, r in runs) + " (기준: 30초 미만)")
     rep.detail("4.7 단계별 처리 시간 (초)", "\n".join(
         f"{name}: 수집 {r['timings'].get('collect', 0)} / 검색 {r['timings'].get('retrieve', 0)} / "
         f"답변 생성 {r['timings'].get('generate', 0)} / 전체 {r['timings'].get('total', 0)}" for name, r in runs))
-    rep.check("4.7", "NF2002 수집 캐시", not report2.indexed, f"재질문 시 새 색인 {len(report2.indexed)}건")
+    rep.check("4.7", "수집 캐시", not report2.indexed, f"재질문 시 새 색인 {len(report2.indexed)}건")
     hits = scan(config.ROOT)
-    rep.check("4.7", "NF2003 소스에 API 키 없음", not hits, "; ".join(hits) or "검출 없음")
+    rep.check("4.7", "소스에 API 키 없음", not hits, "; ".join(hits) or "검출 없음")
 
     # ------------------------------------------------------------ 저장
     lines = [

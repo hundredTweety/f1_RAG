@@ -1,7 +1,7 @@
 """위키백과(MediaWiki API) 문서 출처.
 
 검색(list=search)으로 후보를 모으고, 선별된 문서만 본문(prop=extracts)을 받는다.
-본문을 받기 전에 버릴 문서를 정하기 위해 검색 단계에서는 제목과 요약(snippet)만 쓴다 (2.4).
+본문을 받기 전에 버릴 문서를 정하기 위해 검색 단계에서는 제목과 요약(snippet)만 쓴다.
 """
 
 from __future__ import annotations

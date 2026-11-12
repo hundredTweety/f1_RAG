@@ -1,6 +1,6 @@
-"""LangGraph RAG 파이프라인: retrieve → generate 두 노드 (F2007).
+"""LangGraph RAG 파이프라인: retrieve → generate 두 노드.
 
-외부 문서 수집(F2003~F2005)은 그래프 앞 단계(services.qa)에서 끝내고,
+외부 문서 수집은 그래프 앞 단계(services.qa)에서 끝내고,
 그래프는 '이미 색인된 문서에서 근거를 찾고 그 근거로만 답한다'는 책임만 진다.
 """
 

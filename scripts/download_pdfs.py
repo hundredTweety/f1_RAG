@@ -1,6 +1,6 @@
-"""data/raw/manifest.yaml 의 FIA PDF를 내려받는다 (F2016).
+"""data/raw/manifest.yaml 의 FIA PDF를 내려받는다.
 
-이미 받은 파일은 건너뛴다. 재시도·호출 간격·User-Agent 규칙은 다른 외부 호출과 같다 (NF2006).
+이미 받은 파일은 건너뛴다. 재시도·호출 간격·User-Agent 규칙은 다른 외부 호출과 같다.
 
 사용법
   python scripts/download_pdfs.py

@@ -1,7 +1,7 @@
 """설정과 환경변수 로딩.
 
-- 근거 품질에 영향을 주는 값(청크 크기, Top-k, 검색 방식 등)은 config/settings.yaml 에 둔다 (F2005, F2006).
-- API 키는 환경변수(.env)로만 받는다 (NF2003).
+- 근거 품질에 영향을 주는 값(청크 크기, Top-k, 검색 방식 등)은 config/settings.yaml 에 둔다.
+- API 키는 환경변수(.env)로만 받는다.
 """
 
 from __future__ import annotations
